@@ -5,7 +5,7 @@
 
 <dir>
 <name>Hot Movies</name>
-<link>http://www.norestrictions.club/valhalla/Hot.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Hot.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-Hot-Movies.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-Hot-Movies.png</thumbnail>
 </dir>
