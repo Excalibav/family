@@ -38,21 +38,21 @@
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.png</thumbnail>
 </dir>
 
-<dir>
+dir>
 <name>Actors</name>
 <link>http://www.norestrictions.club/valhalla/Actors/Actordir.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Actors.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Actors.png</thumbnail>
 </dir>
 
-<dir>
+dir>
 <name>Anthology</name>
 <link>http://www.norestrictions.club/valhalla/Decades/Decades.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Anthology.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Anthology.png</thumbnail>
 </dir>
 
-<dir>
+dir>
 <name>Horror</name>
 <link>http://www.norestrictions.club/valhalla/Horror/Horror.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Horror.gif</animated_thumbnail>
@@ -66,7 +66,7 @@
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/MarvelvsDC.png</thumbnail>
 </dir>
 
-<dir>
+dir>
 <name>Crime</name>
 <link>http://www.norestrictions.club/valhalla/Crime/Crime.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Crime.gif</animated_thumbnail>
@@ -86,7 +86,7 @@ dir><name>Retro TV</name>
 <thumbnail></thumbnail>
 </dir>
 
-<dir>
+dir>
 <name>Danish Collection</name>
 <link>http://www.norestrictions.club/valhalla/GrandDane/mains.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Danish.gif</animated_thumbnail>
@@ -100,26 +100,7 @@ dir><name>Retro TV</name>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Kids.png</thumbnail>
 </dir>
 
-<dir>
-<name>Dog's Place</name>
-<link>http://www.norestrictions.club/valhalla/Dogs/Dogdir.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Dogs.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Dogs.png</thumbnail>
-</dir>
 
-dir>
-<name>Music</name>
-<link>http://www.norestrictions.club/valhalla/music/Main.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Stoner's Place</name>
-<link>http://www.norestrictions.club/valhalla/Weed/Weeddir.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Stoners.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Stoners.png</thumbnail>
-</dir>
 
 <dir>
 <name>Gamer's Place</name>
