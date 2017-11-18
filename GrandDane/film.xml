@@ -3,13 +3,13 @@
 #######################################################################################################################################
 
 dir><name>Bokssæt</name>
-<link>http://www.norestrictions.club/valhalla/GrandDane/boks.xml</link>
-<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
 
 <dir><name>Før 1990</name>
-<link>http://www.norestrictions.club/valhalla/GrandDane/danskefilm2.xml</link>
-<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/danskefilm2.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
 
 <dir><name>Efter 1990</name>
-<link>http://www.norestrictions.club/valhalla/GrandDane/danskefilm.xml</link>
-<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/danskefilm.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
