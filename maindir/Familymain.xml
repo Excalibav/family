@@ -86,7 +86,7 @@ dir><name>Retro TV</name>
 <thumbnail></thumbnail>
 </dir>
 
-dir>
+<dir>
 <name>Alt det danske</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/mains.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Danish.gif</animated_thumbnail>
