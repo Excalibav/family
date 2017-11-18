@@ -12,90 +12,90 @@
 
 <dir>
 <name>IMDB Top 1000</name>
-<link>http://www.norestrictions.club/valhalla/Imdb.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Imdb.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-IMDB-1000.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-IMDB-1000.png</thumbnail>
 </dir>
 
 <dir>
 <name>Best of 2017</name>
-<link>http://www.norestrictions.club/valhalla/2017.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/2017.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2017.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2017.png</thumbnail>
 </dir>
 
 <dir>
 <name>Best of 2016</name>
-<link>http://www.norestrictions.club/valhalla/2016.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/2016.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2016.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2016.png</thumbnail>
 </dir>
 
 <dir>
 <name>Best of 2015</name>
-<link>http://www.norestrictions.club/valhalla/best2015.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/best2015.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.png</thumbnail>
 </dir>
 
-dir>
+<dir>
 <name>Actors</name>
-<link>http://www.norestrictions.club/valhalla/Actors/Actordir.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Actors/Actordir.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Actors.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Actors.png</thumbnail>
 </dir>
 
-dir>
+<dir>
 <name>Anthology</name>
-<link>http://www.norestrictions.club/valhalla/Decades/Decades.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Decades/Decades.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Anthology.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Anthology.png</thumbnail>
 </dir>
 
 dir>
 <name>Horror</name>
-<link>http://www.norestrictions.club/valhalla/Horror/Horror.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Horror.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Horror.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Horror.png</thumbnail>
 </dir>
 
 <dir>
 <name>Marvel vs DC</name>
-<link>http://www.norestrictions.club/valhalla/DcMarvel/DcMarveldir.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/DcMarvel/DcMarveldir.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/MarvelvsDC.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/MarvelvsDC.png</thumbnail>
 </dir>
 
 dir>
 <name>Crime</name>
-<link>http://www.norestrictions.club/valhalla/Crime/Crime.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Crime/Crime.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Crime.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Crime.png</thumbnail>
 </dir>
 
 <dir>
 <name>Westerns</name>
-<link>http://www.norestrictions.club/valhalla/Westerns/Westerns.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Westerns/Westerns.xml</link>
 <animated_thumbnail>https://i.imgur.com/I5XmLEu.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/tgSjALr.png</thumbnail>
 </dir>
 
 dir><name>Retro TV</name>
-<link>http://www.norestrictions.club/valhalla/Retrotv/Retrotv.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Retrotv/Retrotv.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 </dir>
 
 dir>
 <name>Danish Collection</name>
-<link>http://www.norestrictions.club/valhalla/GrandDane/mains.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/mains.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Danish.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Danish.png</thumbnail>
 </dir>
 
 <dir>
 <name>Kids & Animation</name>
-<link>http://www.norestrictions.club/valhalla/Kids/Kids.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Kids.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Kids.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Kids.png</thumbnail>
 </dir>
@@ -111,7 +111,7 @@ dir>
 
 
 <dir><name>Christmas</name>
-<link>http://www.norestrictions.club/valhalla/Christmas/Christmasdir.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/Christmas/Christmasdir.xml</link>
 <animated_thumbnail>https://i.imgur.com/JG9vJ2A.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/sM8aoa1.png</thumbnail></dir>
 
