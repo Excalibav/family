@@ -1,0 +1,36 @@
+#######################################################################################################################################
+<fanart>http://bsnscb.com/data/out/51/39448497-danish-wallpapers.png</fanart>
+#######################################################################################################################################
+<dir><name>Børn</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/born/bornmain.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/born.png</thumbnail></dir>
+
+<dir><name>Film</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/film.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
+
+<dir><name>TV kanaler</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/tv/dktv.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/kanaler.png</thumbnail></dir>
+
+<dir><name>Jul</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/jul/main.xml</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/jul.png</thumbnail></dir>
+
+<plugin>
+<title>[COLOR blue][I]DR Bonanza[/I][/COLOR]</title>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/addon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR blue][I]DR TV[/I][/COLOR]</title>
+<link>plugin://plugin.video.drnu/</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/addon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR blue][I]TV3 play[/I][/COLOR]</title>
+<link>plugin://plugin.video.tv3play.dk/?region=dk</link>
+<thumbnail>http://tommy.winther.nu/files/2012/04/tv3playicon.png</thumbnail>
+</plugin>

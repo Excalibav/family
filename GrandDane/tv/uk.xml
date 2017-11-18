@@ -1,0 +1,15 @@
+#######################################################################################################################################
+
+<plugin>
+<title>Engelske (Zem tv addon er nødvendig)</title>
+<link>plugin://plugin.video.ZemTV-shani/?mode=96&name=%5bCOLOR%20red%5dEnglish%5b%2fCOLOR%5d&url=13</link>
+<thumbnail>http://www.flaginstitute.org/wp/wp-content/uploads/flags/UNKG0001.png</thumbnail>
+</plugin>
+ 
+<plugin>
+<title>Filmon</title>
+<link>plugin://plugin.video.filmon.simple/</link>
+<thumbnail>hhttp://www.flaginstitute.org/wp/wp-content/uploads/flags/UNKG0001.png</thumbnail>
+</plugin>
+
+

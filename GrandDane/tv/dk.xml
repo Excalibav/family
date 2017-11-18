@@ -1,0 +1,97 @@
+#######################################################################################################################################
+<poster>Staael</poster>
+<fanart>http://bsnscb.com/data/out/51/39448497-danish-wallpapers.png</fanart>
+##################################################################################
+
+
+
+<item>
+<title>DR 1 [COLOR=Yellow](KUN I DK)[/COLOR]</title>
+<link>https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0</link>
+<thumbnail>https://www.dsa-net.dk/graphics/logoer/dr_1.png</thumbnail>
+</item>
+
+<item>
+<title>DR 2 [COLOR=Yellow](KUN I DK)[/COLOR]</title>
+<link>https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0</link>
+<thumbnail>https://www.dsa-net.dk/graphics/logoer/dr_2.png</thumbnail>
+</item>
+
+<item>
+<title>DR 3 [COLOR=Yellow](KUN I DK)[/COLOR]</title>
+<link>https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0</link>
+<thumbnail>https://www.dsa-net.dk/graphics/logoer/drtv3.jpg</thumbnail>
+</item>
+
+<item>
+<title>DR K [COLOR=Yellow](KUN I DK)[/COLOR]</title>
+<link>https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0</link>
+<thumbnail>https://www.dsa-net.dk/graphics/logoer/dr_k.jpg</thumbnail>
+</item>
+
+<item>
+<title>DR Ultra [COLOR=Yellow](KUN I DK)[/COLOR]</title>
+<link>https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0</link>
+<thumbnail>https://www.dsa-net.dk/graphics/logoer/dr_ultra.jpg</thumbnail>
+</item>
+
+<item>
+<title>DR Ramasjang [COLOR=Yellow](KUN I DK)[/COLOR]</title>
+<link>https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0</link>
+<thumbnail>https://www.dsa-net.dk/graphics/logoer/ramasjang.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV 2 (Nord)[COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8</link>
+<thumbnail>http://staalholm.dk/wp-content/uploads/2015/12/Tv2.png</thumbnail>
+</item>
+
+<item>
+<title>TV 2 Zulu[COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master.m3u8</link>
+<thumbnail>http://gfx.tv2.dk/images/_static/tv2channels/zulu.png</thumbnail>
+</item>
+
+<item>
+<title>TV 2 Fri[COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master.m3u8</link>
+<thumbnail>http://omtv2.tv2.dk/fileadmin/_processed_/csm_fri_p_RGB_9e00853d9b.png</thumbnail>
+</item>
+
+<item>
+<title>TV 2 Charlie[COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master.m3u8</link>
+<thumbnail>http://omtv2.tv2.dk/fileadmin/_processed_/csm_charlie_p_RGB_f741a3455a.png</thumbnail>
+</item>
+
+<item>
+<title>TV 2 News[COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8</link>
+<thumbnail>http://omtv2.tv2.dk/fileadmin/_processed_/csm_news_positiv_RGB_4c042838f6.png</thumbnail>
+</item>
+
+<item>
+<title>TV 2 Sport[COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8</link>
+<thumbnail>http://omtv2.tv2.dk/fileadmin/_processed_/csm_sport_p_PNG_983f48af4b.png</thumbnail>
+</item>
+
+item>
+<title>6eren [COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8</link>
+<thumbnail>https://static.nuuktv.gl/wp-content/uploads/2013/10/6eren-HD-ny.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 9 [COLOR green]  - 720p HD[/COLOR]</title>
+<link>http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8</link>
+<thumbnail>https://static.nuuktv.gl/wp-content/uploads/2013/10/canal9hd_big.png</thumbnail>
+</item>
+
+
+<item>
+<title>Event kanal[/COLOR]</title>
+<link>http://176.31.225.191:8081/live/Channel1/playlist.m3u8</link>
+<thumbnail>https://atlantapokerclub.com/wp-content/uploads/2016/05/Special-events.png</thumbnail>
+</item>

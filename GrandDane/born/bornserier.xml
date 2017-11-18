@@ -1,0 +1,391 @@
+#######################################################################################################################################
+<fanart>http://bsnscb.com/data/out/51/39448497-danish-wallpapers.png</fanart>
+##################################################################################
+
+
+<plugin>
+<name>Alabadig</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http:%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fAlabadig.htm</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptqapOUX2RL2ZUnc0QKqqkf0THBvxMFjRKUfFrfurs4aGMgKk</thumbnail>
+</plugin>
+
+<dir>
+<name>Alien surfgirls</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/aliensurfgirl.xml</link>
+<thumbnail>https://i.ytimg.com/sh/l9AUyOGpTd8/showposter.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Alvin og de frække jordegern</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/aliensurfgirl.xml</link>
+<thumbnail>http://loadtv.biz/wp-content/uploads/2015/08/alvinnn-and-the-chipmunks.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Ane og Anders har en bro</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fAne_og_anders.htm</link>
+<thumbnail>https://img.discogs.com/Kt51MApCa5jzkgP-YY3M8GSvHIg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8996498-1472985002-7960.jpeg.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>Asta-Basta-Bum</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fAsta_basta_bum.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000068307.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>Badespots</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fBadespots.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000068307.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Bamses Billedbog</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fbamses_billedbog.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000069592.jpg</thumbnail>
+</plugin>
+
+<dir>
+<name>Batman - The Animated Series</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/batman/main.xml</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/711wpfzaphL._SY550_.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Bullerfnis</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fbullerfnis.htm</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA9bD4yp5uugDm6yXoMK2z_bZ-tKl0bJywhtvEky3hUF9GiNupkw</thumbnail>
+</plugin>
+
+<plugin>
+<name>Cirkeline</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fcirkeline.htm</link>
+<thumbnail>https://i.ytimg.com/vi/cfkLsGixS3g/hqdefault.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Container Conrad</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fContainer_conrad.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000070751.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Den blå æske</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fden_blaa_aeske.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000064880.jpg</thumbnail>
+</plugin>
+
+<dir>
+<name>Den Lille Prinsesse</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/prins.xml</link>
+<thumbnail>https://www.laserdisken.dk/billeder/forsidestor/92501080272458445.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Der var krig i verden</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fder_var_krig_i_verden.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000068915.jpg</thumbnail>
+</plugin>
+
+
+<dir>
+<name>Dexters Laboratorium</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/dexter.xml</link>
+<thumbnail>http://cdn-static.sidereel.com/tv_shows/18861/giant_2x/77992-2.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Dig, Mig og Vito</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fdig_mig_vito.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000069536.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Duksedrengen</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fduksedrengen.htm</link>
+<thumbnail>http://cinemaonline.dk/Billede/duksedrengen.15530?thumb=False</thumbnail>
+</plugin>
+
+<plugin>
+<name>Døren går op</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fdoeren_gaar_op.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/collectionThumbs/boern/doeren_gaar_op.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Eventyr til salg</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2feventyr_til_salg.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000070471.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Familien EDBsen</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ffamilien_edbsen.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000070471.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Familien Krahne</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ffamilien_krahne.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000063076.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>Far, mor og blyp</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ffar_mor_blyp.htm</link>
+<thumbnail>https://www.imusic.dk/gfx/item/image/424/5709576812424/mor-og-blyp-far-1996-far-mor-og-blyp-compact-disc.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Fredag i farver</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ffar_mor_blyp.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000051020.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Følg mig</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ffoelg_mig.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000069512.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Goda' Goda'</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fgoda_goda.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000066231.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Guldregn</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fguldregn.htm</link>
+<thumbnail>http://www.scope.dk/images/film/003620/00006907_guldregn_dvd-dk_360.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Hemmelig sommer</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fHemmelig_sommer.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000066944.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Hvad er det nu den hedder?</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fhvad_er_det_nu.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000064911.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Ingermarie og Adam</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fingermarie_og_adam.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000068300.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Ingrid og lillebror</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fingrid_og_lillebror.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000060388.jpg</thumbnail>
+</plugin>
+
+<dir> 
+<name>Justice League</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/justle/main.xml</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71YQPpSqpSL._SL1257_.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Kaj og Andrea</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fkaj_og_andrea.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000048635.jpg/thumbnail>
+</plugin>
+
+
+<dir> 
+<name>Lego Friends</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/legofre.xml</link>
+<thumbnail>https://i.ytimg.com/vi/4ju-o8GRLh0/hqdefault.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Legestue</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2flegestue.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000064918.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Ludo</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fludo.htm</link>
+<thumbnail>http://laserdisken.dk/billeder/forsidestor/1084368872434013.jpg</thumbnail>
+</plugin>
+
+<dir> 
+<name>Luftens Helte</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/lufthelt.xml</link>
+<thumbnail>http://www.juhu.dk/disneydvd/covers/talespin1.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Mad, mad, mad</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fmadmadmad.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000071129.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Magiske Mads</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fmagiske_mads.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/collectionThumbs/boern/magiske_mads.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Manden fra Mormugao</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fmanden_fra_mormugao.htm</link>
+<thumbnail>https://i.ytimg.com/vi/G8-0EQQYacs/hqdefault.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Mysteriet om det levende lig</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fMysteriet_om_det_levende_lig.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000069519.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Nu er det ikke sjovt længere</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fnu_er_det.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000048274.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Nu skal du se</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fnu_skal_du_se.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000068405.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Omsen og Momsen</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fomsen_og_momsen.htm</link>
+<thumbnail>http://www.dvdcity.dk/cover/1060202735754/omsen-momsen.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Petter og Petter</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fPetter_og_Petter.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000070516.jpg</thumbnail>
+</plugin>
+
+
+<dir>
+<name>Peter Pedal</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/pedal/main.xml</link>
+<thumbnail>http://dizw242ufxqut.cloudfront.net/images/product/movie/dvd/image0/peter_pedal_-_velkommen_forar_dk-22636955-frntl.png</thumbnail>
+</dir>
+
+<dir>
+<name>Powerpuff Pigerne</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/powerpuff.xml</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/d2/d8/7b/d2d87bc75ff9be798abdd0fc32d557de.jpg</thumbnail>
+</dir>
+
+
+<plugin>
+<name>Psyko-Lab</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fPsyko-lab.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000052709.jpg</thumbnail>
+</plugin>
+
+<dir>
+<name>Rasmus Klump</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/raskl.xml</link>
+<thumbnail>http://comicwiki.dk/images/e/e5/Rasmus_Klump_billede.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Ridder Ræddik</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fridder_raeddik.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000064137.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Sirenesang i vildnisset</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fSirenesang_i_vildnisset.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000069496.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Skattekortet</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fSkattekortet.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000067626.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Sonja</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fsonja.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000042813.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Stine, Anders og Jeanette</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fstine_anders_jeanette.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000070136.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Super Carla</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fstine_anders_jeanette.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000043048.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>Syvsoveren</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fsyvsoveren.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000064992.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Sære Historier</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fsaere_historier.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000057588.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Sørøver Sally</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fsally.htm</link>
+<thumbnail>https://www.laserdisken.dk/billeder/forsidestor/1084974363394977.jpg</thumbnail>
+</plugin>
+
+<dir>
+<name>Thunderbirds are go</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/borntv/thunder.xml</link>
+<thumbnail>http://assets-cf.gbeye.com/thumbnails/lightbox_106714_1456796546.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>Tillykke med dig</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ftillykke_med_dig.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000064868.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>Tutlerne</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ftutlerne.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/collectionThumbs/boern/tutlerne.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Tyllefyllebølleby</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2ftyllefylleboelleby.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/thumbs/000070734.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Valle og Volmer</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fvalle_og_volmer.htm</link>
+<thumbnail>http://downol.dr.dk/download/bonanza/collectionThumbs/boern/valle_og_volmer.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Ude på noget</name>
+<link>plugin://plugin.video.dr.dk.bonanza/?content_type=video&mode=content&url=http%3a%2f%2fwww.dr.dk%2fbonanza%2fserie%2fboern%2fude_paa_noget.htm</link>
+<thumbnail>https://www.homeenter.com/picHE/JPG340/588/58857.jpg</thumbnail>
+</plugin>

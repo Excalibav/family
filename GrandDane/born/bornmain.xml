@@ -1,0 +1,21 @@
+#######################################################################################################################################
+<fanart>http://bsnscb.com/data/out/51/39448497-danish-wallpapers.png</fanart>
+#######################################################################################################################################
+
+<dir>
+<name>Tegne/Animationsfilm</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/born/borntegnefilm.xml</link>
+<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/tegne.png</thumbnail>
+</dir>
+
+<dir>
+<name>Børne film</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/born/bornfilm.xml</link>
+<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/bornefi.png</thumbnail>
+</dir>
+
+<dir>
+<name>Børne serier</name>
+<link>http://www.norestrictions.club/valhalla/GrandDane/born/bornserier.xml</link>
+<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/bornese.png</thumbnail>
+</dir>
