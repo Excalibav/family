@@ -66,24 +66,11 @@
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/MarvelvsDC.png</thumbnail>
 </dir>
 
-dir>
-<name>Crime</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Crime/Crime.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Crime.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Crime.png</thumbnail>
-</dir>
-
 <dir>
 <name>Western film</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Westerns/Westerns.xml</link>
 <animated_thumbnail>https://i.imgur.com/I5XmLEu.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/tgSjALr.png</thumbnail>
-</dir>
-
-dir><name>Retro TV</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Retrotv/Retrotv.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
 </dir>
 
 <dir>
