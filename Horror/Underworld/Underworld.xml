@@ -1,0 +1,84 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Underworld (2003)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0320691</imdb>
+		<title>Underworld</title>
+		<year>2003</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rdkxl5iXdpVU188cL1LLG3sy6z4.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/cPhRPAJWK8BuuJqqf6PztzvOlnZ.jpg</fanart>
+</item>
+
+<item>
+	<title>Underworld: Evolution (2006)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0401855</imdb>
+		<title>Underworld: Evolution</title>
+		<year>2006</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/fogihlu39MuYgL6pKObI4SQWPOY.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lLZTsh8qDZsHCG9GMnqZKIlluZT.jpg</fanart>
+</item>
+
+<item>
+	<title>Underworld: Rise of the Lycans (2009)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0834001</imdb>
+		<title>Underworld: Rise of the Lycans</title>
+		<year>2009</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hZtK6fkusSKzGc0f7yQ2syo14Ze.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gVfnoiCJBdv2SN7poIbU7eyNVq1.jpg</fanart>
+</item>
+
+<item>
+	<title>Underworld: Awakening (2012)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1496025</imdb>
+		<title>Underworld: Awakening</title>
+		<year>2012</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/76GXWKs2IDi0ZERKLT57wkToV0A.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8iNsXY3LPsuT0gnUiTBMoNuRZI7.jpg</fanart>
+</item>
+
+<item>
+<title>Underworld: Blood Wars (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3717252</imdb>
+<title>Underworld: Blood Wars</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nHXiMnWUAUba2LZ0dFkNDVdvJ1o.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/PIXSMakrO3s2dqA7mCvAAoVR0E.jpg</fanart>
+</item>

@@ -1,0 +1,37 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Sinister (2012)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1922777</imdb>
+		<title>Sinister</title>
+		<year>2012</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hrRYY7FcRc46Ue7h9jcKiW1xqJ3.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/f8jTjoxYCPi7SSsBc4p4pmadxoT.jpg</fanart>
+</item>
+
+<item>
+	<title>Sinister 2 (2015)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt2752772</imdb>
+		<title>Sinister 2</title>
+		<year>2015</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/AeJYo2wLVL6NpkHxpWIptGbQD0N.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/n4oKG6cuQ5JP12BRAmT5t9dk14t.jpg</fanart>
+</item>
+

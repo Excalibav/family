@@ -1,0 +1,101 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>The Boogey Man (1980)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0080464</imdb>
+		<title>The Boogey Man</title>
+		<year>1980</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/vdcWInvROaO9UvUdYgP0z3ZmslN.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dWMqSc02DfJScsFDB9ZYQQjQUxb.jpg</fanart>
+</item>
+
+<item>
+	<title>Boogeyman II (1983)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0085266</imdb>
+		<title>Boogeyman II</title>
+		<year>1983</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/oms2rGJ1PCAioZAEJdGQOljU0jU.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Boogeyman 2 (2007)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0900357</imdb>
+		<title>Boogeyman 2</title>
+		<year>2007</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9HMATJWfBttSPNA25SgspfUxONR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2lyKiJS6QFxsuAGdAxaFhgQxsP8.jpg</fanart>
+</item>
+
+<item>
+	<title>Boogeyman (2005)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0357507</imdb>
+		<title>Boogeyman</title>
+		<year>2005</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uG61rNRVfBx7sHJp42wlN5yLouU.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gEN5vnOpcFBYQzTDO8nlEOmlNd.jpg</fanart>
+</item>
+
+<item>
+	<title>Boogeyman 3 (2008)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1204883</imdb>
+		<title>Boogeyman 3</title>
+		<year>2008</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uWsI9vxI9A8WiaSVbRIisizOpiW.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/miuI8vT5tm3o4eblW6tSlD0zTxS.jpg</fanart>
+</item>
+
+<item>
+	<title>Return of the Boogeyman (1994)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0162889</imdb>
+		<title>Return of the Boogeyman</title>
+		<year>1994</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kgk5wpzloIHjv2GI7U6btRqlTR.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+

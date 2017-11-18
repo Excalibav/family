@@ -1,0 +1,53 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Joy Ride (2001)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0206314</imdb>
+		<title>Joy Ride</title>
+		<year>2001</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/q8y2T2LvJV0mvia1RA9pS1K33GR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wr9KMaCGGquZQqmjN8mRqOR2FeM.jpg</fanart>
+</item>
+
+<item>
+	<title>Joy Ride 2: Dead Ahead (2008)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1140941</imdb>
+		<title>Joy Ride 2: Dead Ahead</title>
+		<year>2008</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/dYuz2lnKz3ZZY4CsWVGZanm6TMb.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lslrLtCMyPgZYtjBR3LKCuG02wB.jpg</fanart>
+</item>
+
+<item>
+	<title>Joy Ride 3 (2014)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3138376</imdb>
+		<title>Joy Ride 3</title>
+		<year>2014</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qfZsy4gxrBDvIzoiT0HqFjQgobP.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6LhwAiSscN1ef4c2alt9pjr1au7.jpg</fanart>
+</item>
+

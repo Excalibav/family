@@ -1,0 +1,53 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Urban Legend (1998)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0146336</imdb>
+		<title>Urban Legend</title>
+		<year>1998</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2oIf0ibr0zlhuhgbOwFSHimh7P6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rH6NsvJg5hYyRigUZhOWDiahUPV.jpg</fanart>
+</item>
+
+<item>
+	<title>Urban Legends: Final Cut (2000)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0192731</imdb>
+		<title>Urban Legends: Final Cut</title>
+		<year>2000</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/4WZPn7zUf8rNSPSbDMvNGK3ebCy.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/phwsujJiyiUPXT5mxCqFPnIW7by.jpg</fanart>
+</item>
+
+<item>
+	<title>Urban Legends: Bloody Mary (2005)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0451957</imdb>
+		<title>Urban Legends: Bloody Mary</title>
+		<year>2005</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/5yIqUhlKaJFlCSqndSe4BWE7fW6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/37Kh4jou3DPP7wSXQPap8KHu4x8.jpg</fanart>
+</item>
+

@@ -1,0 +1,69 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Phantasm (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079714</imdb>
+		<title>Phantasm</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/59GIYULisvSYMwawbbtCnjaPMAn.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/9hceK4BzYY8jylNAQu0ZYYGlcFg.jpg</fanart>
+</item>
+
+<item>
+	<title>Phantasm II (1988)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0095863</imdb>
+		<title>Phantasm II</title>
+		<year>1988</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nXTgWw0eWGvSPDblFdDe2tkLDNI.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/cd2jHPY1F5CBLl2RR6hXDP8ydOD.jpg</fanart>
+</item>
+
+<item>
+	<title>Phantasm III: Lord of the Dead (1994)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0110823</imdb>
+		<title>Phantasm III: Lord of the Dead</title>
+		<year>1994</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/l8ccrv8XDD727vD3V3qntjrMoox.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rSsDcfGCY5VMSy0Xb04Hl7UI1fl.jpg</fanart>
+</item>
+
+<item>
+	<title>Phantasm IV: Oblivion (1998)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0138703</imdb>
+		<title>Phantasm IV: Oblivion</title>
+		<year>1998</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1mBU0bPgOKt0RarqGNyRUbLQbrn.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/nGtAnq1uWZyVL1U4AexxrasnXPY.jpg</fanart>
+</item>
+

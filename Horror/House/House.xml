@@ -1,0 +1,53 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>House (1986)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0091223</imdb>
+		<title>House</title>
+		<year>1986</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3kaVRZ3VU8CE7qcrraqmBc0BLW6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/u9s8BgXOezSLDlaqBXyJMG7qIlt.jpg</fanart>
+</item>
+
+<item>
+	<title>House 2: The Second Story (1987)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0093220</imdb>
+		<title>House 2: The Second Story</title>
+		<year>1987</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gv4mBZfv09eEW4Sv5ZZmalMDYlA.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7Gn9Q4G511ATmHXsnkfvtvDvfGb.jpg</fanart>
+</item>
+
+<item>
+	<title>House III: The Horror Show (1989)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0097527</imdb>
+		<title>House III: The Horror Show</title>
+		<year>1989</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/oGMkNkqcgFJBH6zCypueVYbgMuh.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/sFTtDvgA1J8Ga7LTNQLM0Dte7oN.jpg</fanart>
+</item>
+

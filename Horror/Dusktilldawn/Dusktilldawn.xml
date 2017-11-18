@@ -1,0 +1,37 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>From Dusk Till Dawn (1996)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0116367</imdb>
+		<title>From Dusk Till Dawn</title>
+		<year>1996</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ce0d4kM5KxT4x1Oq8JkSuNYevri.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3kPTAFgx2BftDOexBe41k8kqSRD.jpg</fanart>
+</item>
+
+<item>
+	<title>From Dusk Till Dawn 2: Texas Blood Money (1999)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0120860</imdb>
+		<title>From Dusk Till Dawn 2: Texas Blood Money</title>
+		<year>1999</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/d7bo08grzk9ZYV5W6hatIEszbfZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3G9ZhnNPF3JdGwFOT3Ylqi4tQOK.jpg</fanart>
+</item>
+

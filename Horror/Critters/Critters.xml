@@ -1,0 +1,69 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Critters (1986)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0090887</imdb>
+		<title>Critters</title>
+		<year>1986</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/8GdjSm8SyRQAf7tTW7lcgHK0fWZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dqUw5SO18T8qFs8A0NVq85M5Of3.jpg</fanart>
+</item>
+
+<item>
+	<title>Critters 2 (1988)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0094919</imdb>
+		<title>Critters 2</title>
+		<year>1988</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nztZS9qXaPufw00QEY5rdXlan8l.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/meZMqvgxXNv5sCnD7Wt6COnAwEU.jpg</fanart>
+</item>
+
+<item>
+	<title>Critters 3 (1991)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0101627</imdb>
+		<title>Critters 3</title>
+		<year>1991</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/m9XgzAJk6b9ei4F21IcH1lAzUZX.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7FbQRsw4g4S4OW6tKgViY1SAw5W.jpg</fanart>
+</item>
+
+<item>
+	<title>Critters 4 (1992)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0101628</imdb>
+		<title>Critters 4</title>
+		<year>1992</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/oiTHmXiYMba7MawYSy57yc6e7NN.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7GHXvhvildJxOnoK6EkufJa7LSl.jpg</fanart>
+</item>
+

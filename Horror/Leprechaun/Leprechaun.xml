@@ -1,0 +1,117 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Leprechaun (1993)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0107387</imdb>
+		<title>Leprechaun</title>
+		<year>1993</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2dsUS77eZIjWduahxqYtp3U0zS2.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dI7hNqmofB4CrELGiZVkdiJnz21.jpg</fanart>
+</item>
+
+<item>
+	<title>Leprechaun 2 (1994)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0110329</imdb>
+		<title>Leprechaun 2</title>
+		<year>1994</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9xD7yq9eEu3uOAsWeoiiYPUOVaS.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1XfpEBNpRMcozlgVHgOkwRVBDad.jpg</fanart>
+</item>
+
+<item>
+	<title>Leprechaun 3 (1995)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0113636</imdb>
+		<title>Leprechaun 3</title>
+		<year>1995</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gWNgoZwh7RaAfPlMm44xz50qeqM.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wR7ymcbZDTygjvSSgbIIkEzQbq8.jpg</fanart>
+</item>
+
+<item>
+	<title>Leprechaun 4: In Space (1996)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0116861</imdb>
+		<title>Leprechaun 4: In Space</title>
+		<year>1996</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/phtfZGkpkDx6isi7zVN4EKwecHm.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/nZjPrLrKOkykGCHCL5fOWuIoYBE.jpg</fanart>
+</item>
+
+<item>
+	<title>Leprechaun in the Hood (2000)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0209095</imdb>
+		<title>Leprechaun in the Hood</title>
+		<year>2000</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/aKDMa6Aeez0SA3WYsZgZBrvFtl3.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8mk6TyGmjd0QVywaekjKGc4s2ns.jpg</fanart>
+</item>
+
+<item>
+	<title>Leprechaun: Back 2 tha Hood (2003)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0339294</imdb>
+		<title>Leprechaun: Back 2 tha Hood</title>
+		<year>2003</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/dIyJ9mA3mPW1WEme5tUjaadHrYb.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6xZrqzy2Uhq1DvB0zdE834p4gfB.jpg</fanart>
+</item>
+
+<item>
+	<title>Leprechaun: Origins (2014)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt2345613</imdb>
+		<title>Leprechaun: Origins</title>
+		<year>2014</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rDMP96zoVQiuSXZTagmDoGpsGgG.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/jm9Ev7X6ziUddQr7xv3MkxuPeF5.jpg</fanart>
+</item>
+

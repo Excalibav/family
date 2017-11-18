@@ -1,0 +1,37 @@
+#######################################################################################################################################
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>Pet Sematary (1989)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0098084</imdb>
+		<title>Pet Sematary</title>
+		<year>1989</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9zUax4pjRgoPIJla9CQejqNJofB.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3M4MZjThGWIWTD6jmB0NSUitljR.jpg</fanart>
+</item>
+
+<item>
+	<title>Pet Sematary II (1992)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0105128</imdb>
+		<title>Pet Sematary II</title>
+		<year>1992</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/iaWnUo0RNDMg3uGSVrFtvlxH7EB.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/9rBui4Ipju1b0uFe43fDkTjtDro.jpg</fanart>
+</item>
+

@@ -1,0 +1,282 @@
+#######################################################################################################################################
+<poster>Valhalla</poster>
+<fanart>http://blog.euroffice.it/wp-content/uploads/2014/10/halloween-2-1200x675.jpg</fanart>
+#######################################################################################################################################
+
+<dir><name>Various horror movies</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Horrorlist.xml</link>
+<thumbnail>https://www.th3tec.com/wp-content/uploads/2016/03/638143.jpg</thumbnail></dir>
+
+<dir><name>28 days/weeks later</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/28later/28later.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/axMHHYSQEHWzjGmXCMjUMWe3Dqc.jpg</thumbnail></dir>
+
+<dir><name>30 days of night</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/30days/30days.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Q42fQrj4xIcVq60ZKPQehh8OxI.jpg</thumbnail></dir>
+
+<dir><name>Amityville</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Amityville/Amityville.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qo6Q2hUOTYvX2hgdEnCquFFuZNc.jpg</thumbnail></dir>
+
+<dir><name>Annabelle</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Annabelle/Annabelle.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8pCFurneAWouGbBMEoBHqU1ejbb.jpg</thumbnail></dir>
+
+<dir><name>A nightmare on elm street</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Freddy/Freddy.xml</link>
+<thumbnail>http://cdn5.ihorror.com/app/uploads/dream-warriors.jpg</thumbnail></dir>
+
+<dir><name>Bad taste / Braindead</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Badtaste/Badtaste.xml</link>
+<thumbnail>https://res.cloudinary.com/movielala/image/upload/v1436493014/559f0b9b776f726aa0002cec.jpg</thumbnail></dir>
+
+<dir><name>Basket case</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Basketcase/Basketcase.xml</link>
+<thumbnail>https://riversofgrue.files.wordpress.com/2015/04/basket-case-51e8128fbd0ba.jpg</thumbnail></dir>
+
+<dir><name>Blair witch</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Blairwitch/Blairwitch.xml</link>
+<thumbnail>http://orig13.deviantart.net/1e6a/f/2016/207/d/4/blair_witch_1080p_by_ranentrudgett-dabhmd5.jpg</thumbnail></dir>
+
+<dir><name>Boogeyman</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Boogeyman/Boogeyman.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8MTj6svg5mW880uNN156NbXPwm0.jpg</thumbnail></dir>
+
+<dir><name>Cabin fever</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Cabinfever/Cabinfever.xml</link>
+<thumbnail>https://res.cloudinary.com/movielala/image/upload/v1453779962/56a6ebd8cefd960a1500173f.jpg</thumbnail></dir>
+
+<dir><name>Candyman</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Candyman/Candyman.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/uI1yzYLZaYaD8CvHRnJklt24LhY.jpg</thumbnail></dir>
+
+<dir><name>Children of the corn</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Childrenofthecorn/Childrenofthecorn.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hmTSp1aF9xG7uwM4f4YMUcLfVAa.jpg</thumbnail></dir>
+
+<dir><name>Childs play</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Childsplay/Childsplay.xml</link>
+<thumbnail>http://cdn.wegotthiscovered.com/wp-content/uploads/childs-play-3-5117257f9ea03.jpg</thumbnail></dir>
+
+<dir><name>The Conjuring</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Conjuring/Conjuring.xml</link>
+<thumbnail>http://www.syfy.com/sites/syfy/files/TheConjuring_blog_01.jpg</thumbnail></dir>
+
+<dir><name>Creepshow</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Creepshow/Creepshow.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/y4z9BKeZKe0kk33pIiXmE9voaYA.jpg</thumbnail></dir>
+
+<dir><name>Critters</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Critters/Critters.xml</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/5a/ab/ab/5aabab0d6606a64507182386d78c8399.jpg</thumbnail></dir>
+
+<dir><name>The descent</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Descent/Descent.xml</link>
+<thumbnail>http://wallpapers-best.com/uploads/posts/2016-04/4_the_descent.jpg</thumbnail></dir>
+
+<dir><name>The living dead</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Dead/Dead.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pWaXoU1aqD2KpMVLt4E9ZmKQXIk.jpg</thumbnail></dir>
+
+<dir><name>Evil dead</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Evildead/Evildead.xml</link>
+<thumbnail>http://www.deadites.net/wallpapers/desktop/army_of_darkness_02_1920x1080.jpg</thumbnail></dir>
+
+<dir><name>The Exorcist</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Exorcist/Exorcist.xml</link>
+<thumbnail>http://wallpapercave.com/wp/H8tYdL0.jpg</thumbnail></dir>
+
+<dir><name>Final Destination</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Finaldestination/Finaldestination.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3ngwmwSSSymtg7XXw2rgjnML2yT.jpg</thumbnail></dir>
+
+<dir><name>Friday the 13th</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Jason/Jason.xml</link>
+<thumbnail>https://wallpaperscraft.com/image/jason_voorhees_friday_the_13th_character_105081_602x339.jpg</thumbnail></dir>
+
+<dir><name>From dusk till dawn</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Dusktilldawn/Dusktilldawn.xml</link>
+<thumbnail>https://www.betaseries.com/images/fonds/original/8095_1005098.jpg</thumbnail></dir>
+
+<dir><name>Grave encounters</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Graveencounters/Graveencounters.xml</link>
+<thumbnail>http://horroroids.com/img/movies/grave_encounters_2_large.jpg</thumbnail></dir>
+
+<dir><name>Halloween</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Halloween/Halloween.xml</link>
+<thumbnail>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/09/Mike-Myers-Wallpapers-HD-1024x576.jpg</thumbnail></dir>
+
+<dir><name>Hannibal lecter</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Hannibal/Hannibal.xml</link>
+<thumbnail>http://orig05.deviantart.net/0ff3/f/2011/298/0/a/hannibal_lecter_red_by_erevis-d4dy04n.jpg</thumbnail></dir>
+
+<dir><name>Hatchet</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Hatchet/Hatchet.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pXT2U0q8etbz2SQpjdeZMhmjBgg.jpg</thumbnail></dir>
+
+<dir><name>Hellraiser</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Hellraiser/Hellraiser.xml</link>
+<thumbnail>https://images4.alphacoders.com/933/93348.jpg</thumbnail></dir>
+
+<dir><name>Hills have eyes</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Hillshaveeyes/Hillshaveeyes.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/g2kJ4ALZNaKIuI14m3v8v1vX5Cw.jpg</thumbnail></dir>
+
+<dir><name>Hostel</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Hostel/Hostel.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/9jTL24i6meo6u5hHEPwUY8TD1N4.jpg</thumbnail></dir>
+
+<dir><name>House</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/House/House.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/avoP9WhDVdJ3XvYMxnnh0YfYTKQ.jpg</thumbnail></dir>
+
+<dir><name>The howling</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Howling/Howling.xml</link>
+<thumbnail>http://stuffpoint.com/werewolves/image/267737-werewolves-the-howling-wallpaper.jpg</thumbnail></dir>
+
+<dir><name>I spit on your grave</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Ispitonyourgrave/Ispitonyourgrave.xml</link>
+<thumbnail>http://horroroids.com/img/movies/grave_encounters_2_large.jpg</thumbnail></dir>
+
+<dir><name>I know what you did last summer</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Iknowwhat/Iknowwhat.xml</link>
+<thumbnail>https://thewolfmancometh.files.wordpress.com/2012/07/i-know-what-you-did-last-summer-killer-fisherman.jpg</thumbnail></dir>
+
+<dir><name>Insidious</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Insidious/Insidious.xml</link>
+<thumbnail>https://lh3.googleusercontent.com/-W4z5QB7_0dY/TYDNg3C7P1I/AAAAAAAAB1U/W7QY-poGK2o/s1600/Insidious6.jpg</thumbnail></dir>
+
+<dir><name>Jaws</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Jaws/Jaws.xml</link>
+<thumbnail>http://wallpapercave.com/wp/DveGJ3X.jpg</thumbnail></dir>
+
+<dir><name>Jeepers creepers</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Jeepers/Jeepers.xml</link>
+<thumbnail>https://fanart.tv/fanart/movies/8922/moviebackground/jeepers-creepers-56f823a6989c3.jpg</thumbnail></dir>
+
+<dir><name>Joy ride</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Joyride/Joyride.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i6JAcvrrVIQeEZw0XE7Z6lVRRUD.jpg</thumbnail></dir>
+
+<dir><name>Lake placid</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Lakeplacid/Lakeplacid.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bUDezVHy90XW3aelsDXyM2MEo5F.jpg</thumbnail></dir>
+
+<dir><name>Leprechaun</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Leprechaun/Leprechaun.xml</link>
+<thumbnail>http://cdn.bloody-disgusting.com/wp-content/uploads/2016/03/dI7hNqmofB4CrELGiZVkdiJnz21.jpg</thumbnail></dir>
+
+<dir><name>Night of demons</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Nightofdemons/Nightofdemons.xml</link>
+<thumbnail>http://wallpapercave.com/wp/DOEfHrA.jpg</thumbnail></dir>
+
+<dir><name>The Omen</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Omen/Omen.xml</link>
+<thumbnail>https://i.ytimg.com/vi/h7Wfp8yzC9k/maxresdefault.jpg</thumbnail></dir>
+
+<dir><name>Open water</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Openwater/Openwater.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uiDOFEJgeFHymNNwrcsKE88vfhg.jpg</thumbnail></dir>
+
+<dir><name>Paranormal activity</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Paranormal/Paranormal.xml</link>
+<thumbnail>https://static.themovieclips.com/backdrops/full/2473682/paranormal-activity-the-marked-ones-4.jpg</thumbnail></dir>
+
+<dir><name>Pet sematary</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Petcemetary/Petcemetary.xml</link>
+<thumbnail>http://horrorfilmcentral.com/wp-content/uploads/2015/09/pet-sematary.jpg</thumbnail></dir>
+
+<dir><name>Phantasm</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Phantasm/Phantasm.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/qCEybJOJ4j3FAiehtycnZvaPNiH.jpg</thumbnail></dir>
+
+<dir><name>Poltergeist</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Poltergeist/Poltergeist.xml</link>
+<thumbnail>https://images3.alphacoders.com/590/590303.jpg</thumbnail></dir>
+
+<dir><name>Psycho</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Psycho/Psycho.xml</link>
+<thumbnail>https://images4.alphacoders.com/520/52094.jpg</thumbnail></dir>
+
+<dir><name>The purge</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Purge/Purge.xml</link>
+<thumbnail>http://cdn.wallpapersafari.com/36/65/lQqaXn.jpg</thumbnail></dir>
+
+<dir><name>Pumpkinhead</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Pumpkinhead/Pumkinhead.xml</link>
+<thumbnail>https://i.ytimg.com/vi/ukgGrYKCJcA/maxresdefault.jpg</thumbnail></dir>
+
+<dir><name>Puppet master</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Puppetmaster/Puppetmaster.xml</link>
+<thumbnail>http://cinemassacre.com/wp-content/uploads/2012/08/PuppetMaster.jpeg</thumbnail></dir>
+
+
+<dir><name>Re-animator</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Animator/Animator.xml</link>
+<thumbnail>http://2.bp.blogspot.com/-OiBl9dU4-CY/T9-WWJrYY7I/AAAAAAAASOM/tRsPBqDfOvQ/s1600/Re-Animator%2B1.jpg</thumbnail></dir>
+
+<dir><name>REC</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/REC/REC.xml</link>
+<thumbnail>http://th05.deviantart.net/fs71/PRE/f/2013/174/3/9/_rec_720p_by_maisdomesmo-d6ab0b7.jpg</thumbnail></dir>
+
+<dir><name>Resident evil</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Residentevil/Residentevil.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/HiQeRDggI5EYLawYNHRJvB026S.jpg</thumbnail></dir>
+
+<dir><name>Saw</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Saw/Saw.xml</link>
+<thumbnail>http://orig08.deviantart.net/c7d0/f/2009/153/e/1/saw__s_amanda_by_deebeewhy.jpg</thumbnail></dir>
+
+<dir><name>Scream</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Scream/Scream.xml</link>
+<thumbnail>http://www.hdwallpapers.in/download/ghostface_in_scream-1280x720.jpg</thumbnail></dir>
+
+<dir><name>Silent hill</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Silenthill/Silenthill.xml</link>
+<thumbnail>http://downloadwallpaper.org/wp-content/uploads/2016/08/silent-hill-wallpaper-HD6.jpg</thumbnail></dir>
+
+<dir><name>Silent night</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Silentnight/Silentnight.xml</link>
+<thumbnail>http://www.asset1.net/tv/pictures/movie/silent-night-deadly-night-1984/Silent-Night-Deadly-Night-DI.jpg</thumbnail></dir>
+
+<dir><name>Sinister</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Sinister/Sinister.xml</link>
+<thumbnail>http://wallpapercave.com/wp/g5kKp1p.jpg</thumbnail></dir>
+
+<dir><name>Stepfather</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Stepfather/Stepfather.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/t1CoZj9ZBotUe2zW1hND8C3Zf00.jpg</thumbnail></dir>
+
+<dir><name>Texas chainsaw massacre</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Chainsaw/Chainsaw.xml</link>
+<thumbnail>http://wallpapercave.com/wp/JUpID2o.jpg</thumbnail></dir>
+
+<dir><name>Terrortoons</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Terrortoons/Terrortoons.xml</link>
+<thumbnail>http://thecutup.net/wordpress/wp-content/uploads/2015/09/terrortoons_vidposter.jpg</thumbnail></dir>
+
+<dir><name>Urban legends</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Urbanlegends/Urbanlegends.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dT560dMjX3Br5gqWrH5wv07crl7.jpg</thumbnail></dir>
+
+<dir><name>Underworld</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Underworld/Underworld.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zDVoc5XRUYeymClQo13aznUT4YC.jpg</thumbnail></dir>
+
+<dir><name>White noise</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Whitenoise/Whitenoise.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kiOnPmm5P9hhvC6bhYvqvpgZGp.jpg</thumbnail></dir>
+
+<dir><name>Wishmaster</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Wishmaster/Wishmaster.xml</link>
+<thumbnail>http://bloodygoodhorror.com/bgh/files/promos/wishmaster%204%20pic.jpg</thumbnail></dir>
+
+<dir><name>Wrong turn</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Wrongturn/Wrongturn.xml</link>
+<thumbnail>http://www.moviewallpapers101.com/wallpapers/Hollywood/2012/Wrong_Turn_5_Bloodlines/2013/9/30/tn1_Wrong_Turn_5_Bloodlines_Movie_Wallpaper_2_uxzif.jpg</thumbnail></dir>
+
+<dir><name>Witchboard</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Horror/Witchboard/Witchboard.xml</link>
+<thumbnail>http://2.bp.blogspot.com/-6d5XZTiDJNE/U0o8HVym3OI/AAAAAAAAm6s/S3H4j58yoNo/s1600/Witchboard+00.jpg</thumbnail></dir>
+
