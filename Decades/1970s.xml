@@ -1,0 +1,4086 @@
+#######################################################################################################################################
+<poster></poster>
+<cache>604800</cache>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#######################################################################################################################################
+<item>
+	<title>The Godfather (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068646</imdb>
+		<title>The Godfather</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/w7t3f2XhtmLF6z9RcxQcexRSZrg.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg</fanart>
+</item>
+
+<item>
+	<title>Star Wars (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076759</imdb>
+		<title>Star Wars</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/tvSlBzAdRE29bZe5yYWrJ2ds137.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg</fanart>
+</item>
+
+<item>
+	<title>The Godfather: Part II (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071562</imdb>
+		<title>The Godfather: Part II</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/eRXf0nuvtRByOa0hdJXEOhVZyQ9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gLbBRyS7MBrmVUNce91Hmx9vzqI.jpg</fanart>
+</item>
+
+<item>
+	<title>One Flew Over the Cuckoo's Nest (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073486</imdb>
+		<title>One Flew Over the Cuckoo's Nest</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2Sns5oMb356JNdBHgBETjIpRYy9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8qpUbdLQJHPnTi0DgnBGHZJokSz.jpg</fanart>
+</item>
+
+<item>
+	<title>Alien (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078748</imdb>
+		<title>Alien</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2h00HrZs89SL3tXB4nbkiM7BKHs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/si4PH5RjbpdQZi3BQvV6eiBNjYD.jpg</fanart>
+</item>
+
+<item>
+	<title>A Clockwork Orange (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066921</imdb>
+		<title>A Clockwork Orange</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hJYwfHxh9O7lyF7hTIT7ZoP8FYQ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6GKCSrUmV83q3iGhKKxg19qtluD.jpg</fanart>
+</item>
+
+<item>
+	<title>Taxi Driver (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075314</imdb>
+		<title>Taxi Driver</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yxq4pk1xGmro8tQABuQIrWrvdaE.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hjmJKAVoZ3n2KWbKgasbfdugwhu.jpg</fanart>
+</item>
+
+<item>
+	<title>Apocalypse Now (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078788</imdb>
+		<title>Apocalypse Now</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/l8dn7rKbjP36PtHsViHGpzf5ey7.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/k91Dag8AZbhjIJqrtf7F1bQnGPg.jpg</fanart>
+</item>
+
+<item>
+	<title>Jaws (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073195</imdb>
+		<title>Jaws</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/slkPgAt1IQgxZXNrazEcOzhAK8f.jpg</fanart>
+</item>
+
+<item>
+	<title>Monty Python and the Holy Grail (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071853</imdb>
+		<title>Monty Python and the Holy Grail</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jRx1nDUA4sb2NEKQaukXKBz6pCf.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6fqmcCVci3cSBCgJw8NGXE4ST8G.jpg</fanart>
+</item>
+
+<item>
+	<title>Rocky (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075148</imdb>
+		<title>Rocky</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lmwGr6J5y6kngFNQuFV2y1yw4OB.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2kkyt0FLROrXt41IgSdE7goCFNQ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Exorcist (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070047</imdb>
+		<title>The Exorcist</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/eYVZP9CibJg1fyZnZahfFIYqfPr.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/unBJ0rZsL2kzs11FliadlDyv6ji.jpg</fanart>
+</item>
+
+<item>
+	<title>Life of Brian (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079470</imdb>
+		<title>Life of Brian</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wEgm6iVOD4afMlEo1VGi3Yz0cmd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wMPlmw0fM1B94XugcuaKGB96Vsd.jpg</fanart>
+</item>
+
+<item>
+	<title>The Deer Hunter (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077416</imdb>
+		<title>The Deer Hunter</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/slNJESItHPqp1CENEJQUPw8d7WE.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/4B7IVbPZyXk5WDxCbd6pYhQtvM8.jpg</fanart>
+</item>
+
+<item>
+	<title>Chinatown (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071315</imdb>
+		<title>Chinatown</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/iIHO6FzF6lL4mA90rrmk3Y705XS.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uArEeO3U7ASyQA9UbMMyn3Z6Ajw.jpg</fanart>
+</item>
+
+<item>
+	<title>Annie Hall (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075686</imdb>
+		<title>Annie Hall</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/j9vVQCSyNWvyBU6w9BxExZRlpZZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8iNt5LGxpX9XeNWJgjx17xfTT7u.jpg</fanart>
+</item>
+
+<item>
+	<title>Dog Day Afternoon (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072890</imdb>
+		<title>Dog Day Afternoon</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gsnPjs2XTBhYDNFgnlsDgjuauDO.jpg</fanart>
+</item>
+
+<item>
+	<title>The Sting (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070735</imdb>
+		<title>The Sting</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/mQaM8fDQdFWwCTFp0TZG8fChlZ5.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/nMHkmE63qZNuHDILhDCxdoNt9Vq.jpg</fanart>
+</item>
+
+<item>
+	<title>Grease (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077631</imdb>
+		<title>Grease</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/iMHdFTrCYhue74sBnXkdO39AJ3R.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dSukjx8A3kOitewpG2n7HuRt4rH.jpg</fanart>
+</item>
+
+<item>
+	<title>Halloween (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077651</imdb>
+		<title>Halloween</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/vjoOFOTBJcJvA1weJejlZ92LZD4.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/vJHu0oQ35NW4AHUc35DtDK0BZvU.jpg</fanart>
+</item>
+
+<item>
+	<title>Close Encounters of the Third Kind (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075860</imdb>
+		<title>Close Encounters of the Third Kind</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/mABOVIUl5lB0WF4HG28rfamgxG1.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xATZyEpnZ0Z0iO9z5K8RZsraGKI.jpg</fanart>
+</item>
+
+<item>
+	<title>Superman (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078346</imdb>
+		<title>Superman</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bAnSiGKtk6sgOYZEDQqP8g6dAzC.jpg</fanart>
+</item>
+
+<item>
+	<title>Carrie (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074285</imdb>
+		<title>Carrie</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/n9JxLthRHwTWwu5OjFHVplkVSUg.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7TbIX6cjOqmFQPG7igvazoXkN9f.jpg</fanart>
+</item>
+
+<item>
+	<title>Mad Max (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079501</imdb>
+		<title>Mad Max</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uc0kLg1UX0ao62O46hdPIFYz8oz.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/yaps1kzbHVxTpCmuMgWm8zaTdnN.jpg</fanart>
+</item>
+
+<item>
+	<title>Dirty Harry (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066999</imdb>
+		<title>Dirty Harry</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6AlKDmfVi5cqQFprxJCf1FWihPk.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/t3OZS8yMs0NL4YgWWc04eXHTn1X.jpg</fanart>
+</item>
+
+<item>
+	<title>Willy Wonka & the Chocolate Factory (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067992</imdb>
+		<title>Willy Wonka & the Chocolate Factory</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/b94qXd1FcIwgzv0NYMUe2bjrzJR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/nyqiCFF3pjcdwG2KmOwvM6CCLKA.jpg</fanart>
+</item>
+
+<item>
+	<title>Rocky II (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079817</imdb>
+		<title>Rocky II</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/NGxIbk3qNtPACVN9Y6c9qDkOir.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xx9DyVNmehDJPrYGsy9AJgYzAtd.jpg</fanart>
+</item>
+
+<item>
+	<title>Young Frankenstein (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072431</imdb>
+		<title>Young Frankenstein</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bWj0Stn422IoH589I7XM4f46vgp.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xniibygKalBzJg2yCugPwZCJe31.jpg</fanart>
+</item>
+
+<item>
+	<title>Manhattan (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079522</imdb>
+		<title>Manhattan</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2OmmKrcLfFQeTd5N7pZeAw6fJPA.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7OzHKga2gEj37QIsA86rcbr8PGf.jpg</fanart>
+</item>
+
+<item>
+	<title>The Rocky Horror Picture Show (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073629</imdb>
+		<title>The Rocky Horror Picture Show</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/v2NC7o8f7AZvQbOAwrfRbe5Z106.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6Fp3am76rkv3AqevktmTMiupdnz.jpg</fanart>
+</item>
+
+<item>
+	<title>Network (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074958</imdb>
+		<title>Network</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nFovf0eUlbdGRqjdxETFunUAtI0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/cD3uUR1xEOB856YUlNxWYJwkuil.jpg</fanart>
+</item>
+
+<item>
+	<title>Kramer vs. Kramer (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079417</imdb>
+		<title>Kramer vs. Kramer</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/r1VJRXuIjotpsT2gJ1E3lKWdRG0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uykne2LCkVuD5NEBzicCmCHFqBa.jpg</fanart>
+</item>
+
+<item>
+	<title>Barry Lyndon (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072684</imdb>
+		<title>Barry Lyndon</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/cGr3Psreme0J3OaM1ZOEngfw2BR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3xmKw9OSbUrg7GCyhvpMuAXLjRh.jpg</fanart>
+</item>
+
+<item>
+	<title>Animal House (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077975</imdb>
+		<title>Animal House</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/AuJkgAh7zAGsm7Oo3CGyDtYvzg0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/Qgr34pvsP2b395CKn0YQJjba9n.jpg</fanart>
+</item>
+
+<item>
+	<title>Blazing Saddles (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071230</imdb>
+		<title>Blazing Saddles</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yccgwPNVaqtgS1d0U5jjM6Mnza8.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/tzJmubvEPw2etDhzqpA6Wb3K2EZ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Texas Chain Saw Massacre (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072271</imdb>
+		<title>The Texas Chain Saw Massacre</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/Qy5LixQVptWXIYzrd9zGVIMpCp.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/sOw7TZzt3vRQXXCrwdspSHwCJDR.jpg</fanart>
+</item>
+
+<item>
+	<title>Dawn of the Dead (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077402</imdb>
+		<title>Dawn of the Dead</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yK8BmYEvd0IPpDXL6zzlTA2geDf.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/vCD9mRgSY4HuoSowm8JO4tm2mhj.jpg</fanart>
+</item>
+
+<item>
+	<title>Escape from Alcatraz (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079116</imdb>
+		<title>Escape from Alcatraz</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lBAxIEywz3KfzXimn9qHBArLHU8.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/doJGjcWPpuGuDPJwCpCNnYUG9x4.jpg</fanart>
+</item>
+
+<item>
+	<title>Papillon (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070511</imdb>
+		<title>Papillon</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/q1tmTQvEWbJgf8eccX1XWXxWKkK.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/w6XYdZIXZlMNL2efDXdXI6q4lhm.jpg</fanart>
+</item>
+
+<item>
+	<title>Enter the Dragon (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070034</imdb>
+		<title>Enter the Dragon</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6C006cxfwjWYkBW4fM3xCMyr7Yg.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wNm3hNJuOk117wEwuESKO8eCEAk.jpg</fanart>
+</item>
+
+<item>
+	<title>Deliverance (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068473</imdb>
+		<title>Deliverance</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gj8q7VIOWg57HQOGmgfv2bCpWg2.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1iE3vVXx3Q7sFlJbNvNYsGHZEvO.jpg</fanart>
+</item>
+
+<item>
+	<title>Patton (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066206</imdb>
+		<title>Patton</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6pyN7udgYaGr6uNIP2MuLUcqmPh.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/iCLuDtSSU0cFLH1oTM1828STIOB.jpg</fanart>
+</item>
+
+<item>
+	<title>The French Connection (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067116</imdb>
+		<title>The French Connection</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xwDi4wF0I1L5bSW08Y8GocDGjJP.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hPlzjKzbO8KuCerm1lOxDtUjlHD.jpg</fanart>
+</item>
+
+<item>
+	<title>The Omen (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075005</imdb>
+		<title>The Omen</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uY14zS4Sm2DdvFXeczFKgLgkQUP.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/zme4RH7DVdRSGrTk7bNvcGGywAW.jpg</fanart>
+</item>
+
+<item>
+	<title>The Conversation (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071360</imdb>
+		<title>The Conversation</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kUgQKOjq5YsOkCHj90ffDU2bOAK.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/u8dMKtP9QShwJoMyu9tdOhashyn.jpg</fanart>
+</item>
+
+<item>
+	<title>The Spy Who Loved Me (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076752</imdb>
+		<title>The Spy Who Loved Me</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/vYMgDqQDpqHDhz3enGkwBmTs7p7.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2tCAEhE2rPONBmUOs4W73AlBWYg.jpg</fanart>
+</item>
+
+<item>
+	<title>Serpico (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070666</imdb>
+		<title>Serpico</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/dq3PTFp0lLlEa2TnJepEknU2Sys.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6pHv9P9yNXvOAp6G9UU8W8wzeLR.jpg</fanart>
+</item>
+
+<item>
+	<title>All the President's Men (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074119</imdb>
+		<title>All the President's Men</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jh4aA8tryNy1QDiQzkE1kzPqkwc.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7nwfodS5en7Pysxc0ayrhLMUOAc.jpg</fanart>
+</item>
+
+<item>
+	<title>Live and Let Die (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070328</imdb>
+		<title>Live and Let Die</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/p34OScaro2KdISrT4EMfeh1aS0E.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1N4CeQyy3kh1pqmTGvMU090sCvh.jpg</fanart>
+</item>
+
+<item>
+	<title>Diamonds Are Forever (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066995</imdb>
+		<title>Diamonds Are Forever</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/viPjZ3JCOahcfNCcVhiPExusJoZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gIGLXXvsljHK1jdDNaIXsjhZnnH.jpg</fanart>
+</item>
+
+<item>
+	<title>Robin Hood (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070608</imdb>
+		<title>Robin Hood</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/s1EBTUtrX4tKuawlapyDLig3sF9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gidtawc8Mne3Dc5UrkvXhoIZqCZ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Warriors (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0080120</imdb>
+		<title>The Warriors</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ikwR74siRBhSdtAUMxNzUJvT59A.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/nK4qiKkZ6FqWyWG4Dzug2eMqYcx.jpg</fanart>
+</item>
+
+<item>
+	<title>The Man with the Golden Gun (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071807</imdb>
+		<title>The Man with the Golden Gun</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/7VSVgxAvA7IdTf8T6Oon1eaReeJ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/f6HNlsfahFWcYC3VH5sQsMrOL72.jpg</fanart>
+</item>
+
+<item>
+	<title>Mean Streets (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070379</imdb>
+		<title>Mean Streets</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3awGnJPs7XmGyCB2eFdxVm6GlGd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/11HyjcaDbuHQceElP9gpAshdNez.jpg</fanart>
+</item>
+
+<item>
+	<title>Moonraker (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079574</imdb>
+		<title>Moonraker</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bIiTYuG1NRtLZAY7lxOwNafn2BV.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ueJ8K4ik1UQKa3cVUa8RHfDDqL.jpg</fanart>
+</item>
+
+<item>
+	<title>American Graffiti (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069704</imdb>
+		<title>American Graffiti</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xq8MFYQ6MLZ65mFpweqV6mCs39k.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/u2fwkirPOiYzmYgtGbInPQtpQo0.jpg</fanart>
+</item>
+
+<item>
+	<title>Star Trek: The Motion Picture (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079945</imdb>
+		<title>Star Trek: The Motion Picture</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/dlQxDFDj6crYfDWRuoK7bq6Q2bF.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pfmeEMdVptCAzyPTvZ4TsUxk2IV.jpg</fanart>
+</item>
+
+<item>
+	<title>Eraserhead (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074486</imdb>
+		<title>Eraserhead</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bWBTsftC74xGIEa415rKQ0Tcyht.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/iCvB5O1edEV4y1WtNFloUkFzwrq.jpg</fanart>
+</item>
+
+<item>
+	<title>Stalker (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079944</imdb>
+		<title>Stalker</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ezt0Z9wIcPIxiks0J4dm8zJn575.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/j8dIick5mrI9ylQ50gPKjCQxk8D.jpg</fanart>
+</item>
+
+<item>
+	<title>MASH (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066026</imdb>
+		<title>MASH</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/eOslMOtaPXgQEgVJ93U3KOLogGD.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8u2L2sHHAQVJ4xksOMzuYvL4SPx.jpg</fanart>
+</item>
+
+<item>
+	<title>Harold and Maude (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067185</imdb>
+		<title>Harold and Maude</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xqay68babjK46U9WBFD2TmtnGcx.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/fKVS7oPfdjFam3YbgDjOHivTkGU.jpg</fanart>
+</item>
+
+<item>
+	<title>Midnight Express (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077928</imdb>
+		<title>Midnight Express</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/afgAGwV1WXjMoooUzaSnw7XAvhj.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bNY2CvjPw6aWxDtkdztRYNDgR5j.jpg</fanart>
+</item>
+
+<item>
+	<title>Being There (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078841</imdb>
+		<title>Being There</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bgTFBMBuh4jA45l0DYyHC2GTq8X.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5I7C0bX6mKRC7Kj6hnNxz1ywvjQ.jpg</fanart>
+</item>
+
+<item>
+	<title>Saturday Night Fever (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076666</imdb>
+		<title>Saturday Night Fever</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uC0GIPI54UiqrIQsnq6C0qXSIwp.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gqTwlRkQ2FBCeeq6JxzCj4ctjHF.jpg</fanart>
+</item>
+
+<item>
+	<title>Jaws 2 (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077766</imdb>
+		<title>Jaws 2</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/zzGtimy1mUJYDjFjCmn2dpHREGV.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pUVaVyWFBRCRSuu6M0rFcyqAwQx.jpg</fanart>
+</item>
+
+<item>
+	<title>The Outlaw Josey Wales (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075029</imdb>
+		<title>The Outlaw Josey Wales</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/8HRmovHTe1FTiZ5GUM534izCNL2.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/vkE1ROrP1gA5c1L31XZ8JR9QRMJ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Aristocats (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065421</imdb>
+		<title>The Aristocats</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3LudCahifOrueMklYBxAXY2wpBg.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kahabFJD9Z7HeX2RWf3guF8PDEz.jpg</fanart>
+</item>
+
+<item>
+	<title>Solaris (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069293</imdb>
+		<title>Solaris</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gBAVtrRXOjeyYsikdx1YSm9PsRf.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6bPs1rIUOACluLosyh5EGw7ZYNj.jpg</fanart>
+</item>
+
+<item>
+	<title>Straw Dogs (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067800</imdb>
+		<title>Straw Dogs</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kn85ADdkCrL3I2uWfKKhxpjolU5.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/eViAtxPy81xSwAykGmlTidq8QZ8.jpg</fanart>
+</item>
+
+<item>
+	<title>The Wicker Man (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070917</imdb>
+		<title>The Wicker Man</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9kHTypiwFGjqa6N4oT8fv3lB3VW.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7cb8HXMXztytgv8xnglmhLRwBhk.jpg</fanart>
+</item>
+
+<item>
+	<title>Badlands (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069762</imdb>
+		<title>Badlands</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lcfhmkaWqDRYTh3JD5iRPTBVcv4.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/czf6PpgXD71D0OAbyAdVXK0PEQj.jpg</fanart>
+</item>
+
+<item>
+	<title>Soylent Green (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070723</imdb>
+		<title>Soylent Green</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/eXZcuTPyhV0yhHL9ox6Ygw8Gd8I.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dJrRGy2UErahGSK0kAscsHhev2h.jpg</fanart>
+</item>
+
+<item>
+	<title>Marathon Man (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074860</imdb>
+		<title>Marathon Man</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wu1T58QID2uxPspf0Jxm2FNgsb9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/d90eG6WVgIIncfykkHPktX2Bi2M.jpg</fanart>
+</item>
+
+<item>
+	<title>Suspiria (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076786</imdb>
+		<title>Suspiria</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ccMPzxtnr5WcHaiwIN4P7mXoJzo.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1uJ71rUsaLQFfz11YrRW7BpvtW7.jpg</fanart>
+</item>
+
+<item>
+	<title>The Jerk (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079367</imdb>
+		<title>The Jerk</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wb6mB6R9vscPhyAegbbNDFZUAIs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gCz20Q91KFTM78Sskd5fj6IC2na.jpg</fanart>
+</item>
+
+<item>
+	<title>Magnum Force (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070355</imdb>
+		<title>Magnum Force</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/5aJc45aGwGcNTQmZFB75Gd3j6cV.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bdQf4GBBb9NKHGGBibuW6oUifOi.jpg</fanart>
+</item>
+
+<item>
+	<title>A Bridge Too Far (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075784</imdb>
+		<title>A Bridge Too Far</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ormdFwSHGVgsWdrzP5pRPaA6nme.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hmmeABwz4MWH3eelrMpq97dU6Bw.jpg</fanart>
+</item>
+
+<item>
+	<title>THX 1138 (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066434</imdb>
+		<title>THX 1138</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/8cie5mojY6MlIrYMs9EtNSyterv.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/oKOVIY9W2d5VMKDN1YAAznZ58Bj.jpg</fanart>
+</item>
+
+<item>
+	<title>Logan's Run (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074812</imdb>
+		<title>Logan's Run</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/iBtkwot48QkgYpPfjceCgyK1Rhz.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/a68m6hfvFLctuq1IhrefWwHZLa2.jpg</fanart>
+</item>
+
+<item>
+	<title>Sleuth (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069281</imdb>
+		<title>Sleuth</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/eWTxj1DxyfILASuPsPYZvUcIBkI.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/d7LVsLzJlTBcI8TpGkKJRlxi1R0.jpg</fanart>
+</item>
+
+<item>
+	<title>Aguirre: The Wrath of God (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068182</imdb>
+		<title>Aguirre: The Wrath of God</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wzLtkJbUQoI2dEtBgxRYRmPUIV9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7Hkq7U28cVmazU5gtQLM04WoLtX.jpg</fanart>
+</item>
+
+<item>
+	<title>The Man Who Would Be King (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073341</imdb>
+		<title>The Man Who Would Be King</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yS2WvQ2oRAJqzpnFiC9dEOtQ7E3.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/AbhlG5C2hYfy26pDJy31ucyQu1G.jpg</fanart>
+</item>
+
+<item>
+	<title>The Rescuers (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076618</imdb>
+		<title>The Rescuers</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/FUxN44FafShR8dJ4vkchPEtn5h.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bHRboVSfqYzILQSm4o7lPG031HT.jpg</fanart>
+</item>
+
+<item>
+	<title>Cabaret (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068327</imdb>
+		<title>Cabaret</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qz9GsM9mnVCMBBb0u3TS0xlCXyf.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uYAmADjM0ZZvZHIeoEEZ2AbzZDi.jpg</fanart>
+</item>
+
+<item>
+	<title>Murder on the Orient Express (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071877</imdb>
+		<title>Murder on the Orient Express</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/66B9pHWl2KU7CwB3xcBNYvEo2CH.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bumq0YRetf10S2qRAUWxZHNfDOx.jpg</fanart>
+</item>
+
+<item>
+	<title>Salò, or the 120 Days of Sodom (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073650</imdb>
+		<title>Salò, or the 120 Days of Sodom</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/d2YXhqlJ3gISDQCdPbvUvUfvlEG.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/mOHNcd5dVHu8XGOzbcRyoZgGaUe.jpg</fanart>
+</item>
+
+<item>
+	<title>Last Tango in Paris (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070849</imdb>
+		<title>Last Tango in Paris</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6ppSHkDe7CoxyvFEc6JILuKnAu0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pBEMQ1YJtaRaGYRi4no0VQE43sk.jpg</fanart>
+</item>
+
+<item>
+	<title>Days of Heaven (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077405</imdb>
+		<title>Days of Heaven</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rjw7tQbiBnbIeufyEt02oVickDM.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/78OfWVXVDkh8QW4ASEF66oRVA54.jpg</fanart>
+</item>
+
+<item>
+	<title>Invasion of the Body Snatchers (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077745</imdb>
+		<title>Invasion of the Body Snatchers</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/emvdLecrjSLO8pJII1XbYJqXhcB.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/9RBrNVbgaNDpZdGiU98OzZtY4c2.jpg</fanart>
+</item>
+
+<item>
+	<title>The Poseidon Adventure (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069113</imdb>
+		<title>The Poseidon Adventure</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3Ypk0OLrECSp7tqQFLMppGBrHfo.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xwEtJVliloiuICXoyqjyTZM9qRc.jpg</fanart>
+</item>
+
+<item>
+	<title>Three Days of the Condor (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073802</imdb>
+		<title>Three Days of the Condor</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gbd3kO5kANvFrgPyxB0p6RNsOQC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/liBsuBCVx4FMGTCckxkmZdOzrpF.jpg</fanart>
+</item>
+
+<item>
+	<title>Kelly's Heroes (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065938</imdb>
+		<title>Kelly's Heroes</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lLFncrtTIz1hcteLbM9eKRflrMd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pYqpf6M9NTXm3RUhPA9aUCnjxeN.jpg</fanart>
+</item>
+
+<item>
+	<title>Sleeper (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070707</imdb>
+		<title>Sleeper</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/fna6VsLR1EX3cF29Pk2FYZkfsBv.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wEo1AsdSckokKpP2S9YQRWuSXaH.jpg</fanart>
+</item>
+
+<item>
+	<title>High Plains Drifter (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068699</imdb>
+		<title>High Plains Drifter</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/557vwDdOIQ07Q1QvTwHVmxHJpXU.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hST5A6ljJWlbyz5kbh6JV2WONzU.jpg</fanart>
+</item>
+
+<item>
+	<title>Smokey and the Bandit (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076729</imdb>
+		<title>Smokey and the Bandit</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yjhrtTAIxt6HpuckQjXEbmhGTIa.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hzjX8eA4u7tGz4d4kjTnsW4RNWK.jpg</fanart>
+</item>
+
+<item>
+	<title>Don't Look Now (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069995</imdb>
+		<title>Don't Look Now</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/eVnTxxmjWbLK7Om9M1OO639Bxc2.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/F9wO6f1Qoic4vgSpKNE3vVTutI.jpg</fanart>
+</item>
+
+<item>
+	<title>The Last Picture Show (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067328</imdb>
+		<title>The Last Picture Show</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3EG1WadirRw4EOW5JrTAos0TMZv.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6YbOJga4mms9PQbHe2uHp9Ks9Ne.jpg</fanart>
+</item>
+
+<item>
+	<title>The Enforcer (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074483</imdb>
+		<title>The Enforcer</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nzde4U4Z7JuqT9VSqPWJxLfWkc0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/yVJTG4nXUxdUJVK2y3md4miS6NN.jpg</fanart>
+</item>
+
+<item>
+	<title>Everything You Always Wanted to Know About Sex *But Were Afraid to Ask (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068555</imdb>
+		<title>Everything You Always Wanted to Know About Sex *But Were Afraid to Ask</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/c3X8iyHX1OINxGdJlnom5mPkZgm.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kzOgPkUJdT148Yreiuj9Z4W5Lib.jpg</fanart>
+</item>
+
+<item>
+	<title>Beneath the Planet of the Apes (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065462</imdb>
+		<title>Beneath the Planet of the Apes</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qxlKNC2nPZfmQzWeRq7kQmZVGB1.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/4zbMD2vCHACJlBdLdubXEu9OGt.jpg</fanart>
+</item>
+
+<item>
+	<title>Fiddler on the Roof (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067093</imdb>
+		<title>Fiddler on the Roof</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/8p34LR1Xs3HagdAujRFf9hXTRju.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wHxPTAcHMou16x0wjSThkR57JcP.jpg</fanart>
+</item>
+
+<item>
+	<title>The Towering Inferno (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072308</imdb>
+		<title>The Towering Inferno</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/atGCmFz8L5KmmVmP4kFcrS1vCyd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/jHYj6T5OHhMIgEy0gPm9IDv4vA4.jpg</fanart>
+</item>
+
+<item>
+	<title>Frenzy (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068611</imdb>
+		<title>Frenzy</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/p7eq6OeWA5xiXqiWPaP4e2JwLjr.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/szCaGTZQEHlgrNdPryLAIg9WGFS.jpg</fanart>
+</item>
+
+<item>
+	<title>Assault on Precinct 13 (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074156</imdb>
+		<title>Assault on Precinct 13</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nKwww1DA43Y1H5XfHdaGFxIIXzD.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/aqIMn6dLtY5iojoQDi0cjUFQZL.jpg</fanart>
+</item>
+
+<item>
+	<title>The Day of the Jackal (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069947</imdb>
+		<title>The Day of the Jackal</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/pMdj0LHJvJp7ih95haGZiTB7gBg.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ke6TyvJjfQYdIyONF1ICu6EdLMo.jpg</fanart>
+</item>
+
+<item>
+	<title>Slap Shot (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076723</imdb>
+		<title>Slap Shot</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xjzzVkfmvaHtogVPAq127m3seB5.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rI518OaXb00F1nLDx6RLS7pwHLw.jpg</fanart>
+</item>
+
+<item>
+	<title>Amarcord (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071129</imdb>
+		<title>Amarcord</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/y2pc5uARkaMU6JQXlKPQ8soxWgc.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ed0ThMuAJXtatQv3LBMPSWcAG7p.jpg</fanart>
+</item>
+
+<item>
+	<title>Up in Smoke (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078446</imdb>
+		<title>Up in Smoke</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/cBbgz13sfqRMgu2neJYKAJ0xmx5.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5e9CnlFmvIt2qo2SLETZ1Qcuh9G.jpg</fanart>
+</item>
+
+<item>
+	<title>Caligula (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0080491</imdb>
+		<title>Caligula</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/PHfmIVnKpLI76BhKmJk9CjNjZ1.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7urYTquDoObFzF5SrhHi9kfLp4W.jpg</fanart>
+</item>
+
+<item>
+	<title>The Amityville Horror (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078767</imdb>
+		<title>The Amityville Horror</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/8wcBjXqu4VtUV0mPyah6WB0mMKR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/s2z4t3y5gvFKId09smKOUq8I8gK.jpg</fanart>
+</item>
+
+<item>
+	<title>Little Big Man (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065988</imdb>
+		<title>Little Big Man</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gXqYGKMrAqMkmlpPh1rzwYZi7eH.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/tWP2LoaMRjX3Y4dDOSwE2prN423.jpg</fanart>
+</item>
+
+<item>
+	<title>Bananas (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066808</imdb>
+		<title>Bananas</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/awywBhq6RuUhrNW1gTZBoTorkQ8.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3MhF7DnFCuY7iY9fgMYEfGCoe8x.jpg</fanart>
+</item>
+
+<item>
+	<title>Hair (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079261</imdb>
+		<title>Hair</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1RITo61dUEruQTrHqY6fQD8kPs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5gPwmXG8uKlue3L5h63kHZOBrYr.jpg</fanart>
+</item>
+
+<item>
+	<title>The Tenant (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074811</imdb>
+		<title>The Tenant</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/pgCEAll5ROxjnIexHomp79dGGZs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lAFd6iJAvsJCotFqFox45vDfv79.jpg</fanart>
+</item>
+
+<item>
+	<title>Love and Death (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073312</imdb>
+		<title>Love and Death</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qRNisGLmcHoEvMjzcvVlcdCnOhO.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6sXvpEgCj9DSr7PZ2FSRTMsKQwm.jpg</fanart>
+</item>
+
+<item>
+	<title>The Discreet Charm of the Bourgeoisie (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068361</imdb>
+		<title>The Discreet Charm of the Bourgeoisie</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wstwX2mq7tASuG4roGSgzCy2j9X.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3fy72jPtogtESvZNugz49P1Y3YQ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Andromeda Strain (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066769</imdb>
+		<title>The Andromeda Strain</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nGI6h63HtxB0SbvaNXc5WcrRycq.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/4eOe0Wdm8ImGmIoitzaI5N7yvNZ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Last House on the Left (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068833</imdb>
+		<title>The Last House on the Left</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/pjxJtLjPMt7KvDvfJDUVxXT0Wxc.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/nvUyGrETZJA7WRqgeGfHmVneOfd.jpg</fanart>
+</item>
+
+<item>
+	<title>Tora! Tora! Tora! (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066473</imdb>
+		<title>Tora! Tora! Tora!</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/njNKZEgVVTk7Q0Fir99fuvEMCf7.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/fztkRpVydDJKSo07oEdqOYTZF1q.jpg</fanart>
+</item>
+
+<item>
+	<title>The Muppet Movie (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079588</imdb>
+		<title>The Muppet Movie</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/48Ve7uLDcPJFGaDnmYYdcV3Ve1M.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bJMPdI1EfzkLPrgbBCCYrBXBY49.jpg</fanart>
+</item>
+
+<item>
+	<title>1941 (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078723</imdb>
+		<title>1941</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wtADewuMRz7roBBx73fPsvHAiBW.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8BAlJDhDpQkCjOFpoA2z2F5w6Fj.jpg</fanart>
+</item>
+
+<item>
+	<title>Bedknobs and Broomsticks (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066817</imdb>
+		<title>Bedknobs and Broomsticks</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1mWFExXAlUSgfBKGkK3mjH1iXk4.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ttOa1qlKCNLYJgdpsiDrVva9VOJ.jpg</fanart>
+</item>
+
+<item>
+	<title>Five Easy Pieces (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065724</imdb>
+		<title>Five Easy Pieces</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/4JsIxivzyj6xEiX1DrD8icONjqZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wBlCe7CQ4knMn6VHr3GARXtz54G.jpg</fanart>
+</item>
+
+<item>
+	<title>Death Wish (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071402</imdb>
+		<title>Death Wish</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3PKm5qtlxxIX7WEmWkCub6PCFSX.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kIPE9R2pEOl6SpZN2IzUe0eG3ut.jpg</fanart>
+</item>
+
+<item>
+	<title>The Lord of the Rings (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077869</imdb>
+		<title>The Lord of the Rings</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1l3WpoF7TX9pOprX4XepCXjQXUV.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8HqSxB9VLJkbRXRdlocbLq9wxwY.jpg</fanart>
+</item>
+
+<item>
+	<title>Picnic at Hanging Rock (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073540</imdb>
+		<title>Picnic at Hanging Rock</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gEG1V9vPaC5DPUxnCifKrKjitzQ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/cqD4FZisEVfFMn8uBWbZEGf4t0C.jpg</fanart>
+</item>
+
+<item>
+	<title>Drunken Master (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0080179</imdb>
+		<title>Drunken Master</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/fWrUTM8jeiU6G6rA4NKwkeigxGa.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/quQt0DPCotCjTEhlFXpaM3sESQZ.jpg</fanart>
+</item>
+
+<item>
+	<title>Murder by Death (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074937</imdb>
+		<title>Murder by Death</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/h0h6MeOcNNcQBEmw6Q1MCkdBFs1.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/qqqzJCi6O1oijtdpO6K3HfEciG8.jpg</fanart>
+</item>
+
+<item>
+	<title>Watership Down (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078480</imdb>
+		<title>Watership Down</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/879iEKkJMSXSbgqjs3tVOQceNUK.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/70dbXMaSl2mve998vUnNHs30VXa.jpg</fanart>
+</item>
+
+<item>
+	<title>Westworld (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070909</imdb>
+		<title>Westworld</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/cOJsaT8jEmG9s1MziVIPpHBRpQ7.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/sZtVYpulooHSN7doa7FCq3O3s6p.jpg</fanart>
+</item>
+
+<item>
+	<title>The Message (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074896</imdb>
+		<title>The Message</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6zOWn1mtcSPfWekydQKbxnCyaTw.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hXOWCT2HjZSK7qM4Se7TBjbktZF.jpg</fanart>
+</item>
+
+<item>
+	<title>Love Story (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066011</imdb>
+		<title>Love Story</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/etBvIpFZTjlBC824O3Va9De6MCh.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/x04WbAV89ye9vv02Oz5CEtkyttV.jpg</fanart>
+</item>
+
+<item>
+	<title>Battle for the Planet of the Apes (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069768</imdb>
+		<title>Battle for the Planet of the Apes</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2tx8XXPU6lSerxDnIhYwror52LV.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kz5aml9pRPFg9oTCSViyJXSKbCW.jpg</fanart>
+</item>
+
+<item>
+	<title>Phantasm (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079714</imdb>
+		<title>Phantasm</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/4s4gt8lQFauA16rq3Gn2GVYaYFu.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/9hceK4BzYY8jylNAQu0ZYYGlcFg.jpg</fanart>
+</item>
+
+<item>
+	<title>Monty Python's And Now for Something Completely Different (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0066765</imdb>
+		<title>Monty Python's And Now for Something Completely Different</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/CA5EsQBOnJFMN9YaKgRgrXnR9O.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/qQ2So5TepTJBVnesRH5QWbJEnYd.jpg</fanart>
+</item>
+
+<item>
+	<title>Paper Moon (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070510</imdb>
+		<title>Paper Moon</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xq7F3iUFJY1L4UFIHoO2Y3fmnE6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/koQRgwuWvAqI95pdWAmbvlx1js0.jpg</fanart>
+</item>
+
+<item>
+	<title>The Many Adventures of Winnie the Pooh (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076363</imdb>
+		<title>The Many Adventures of Winnie the Pooh</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/tlMREhzwv5ireQR0H6Ym8ynuh53.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lSY6fPzIaYS6wvbXQP9uU9y2njf.jpg</fanart>
+</item>
+
+<item>
+	<title>The Omega Man (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067525</imdb>
+		<title>The Omega Man</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kHd0BZtBfOTph7YUggtDF6EoQ9W.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dtPe0y1F4XtpEEOwTpaZXXxXfNU.jpg</fanart>
+</item>
+
+<item>
+	<title>Conquest of the Planet of the Apes (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068408</imdb>
+		<title>Conquest of the Planet of the Apes</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wxanhJ9ZuZ05P4J2hkC1M1rA0dv.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/d1eNYl1qVRFVR0xWFSefb2C6QWa.jpg</fanart>
+</item>
+
+<item>
+	<title>Nosferatu the Vampyre (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079641</imdb>
+		<title>Nosferatu the Vampyre</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/pgW8m63jB7ZgDiBbLQSMJEOQB6Z.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hqSThhiEMal7eSWEoWgeVyvSLAW.jpg</fanart>
+</item>
+
+<item>
+	<title>Vanishing Point (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067927</imdb>
+		<title>Vanishing Point</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/it9ph8BRIkyEqqSxVKHOFeLMVaQ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/qWjHg5yQcpfPSDqQ20MgAopFYuq.jpg</fanart>
+</item>
+
+<item>
+	<title>The Pink Panther Strikes Again (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075066</imdb>
+		<title>The Pink Panther Strikes Again</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/zsCdWipH1IkIRVnuOcNb4XwCGyl.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uEUy0Nk3HTHLrIe9vJ20Req0VmF.jpg</fanart>
+</item>
+
+<item>
+	<title>Duck, You Sucker (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067140</imdb>
+		<title>Duck, You Sucker</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xkLaMyxUgWqmWYAw578p4HXSUDk.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/csjX21x5Re3vQninMLJ1zJemXZ8.jpg</fanart>
+</item>
+
+<item>
+	<title>Get Carter (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067128</imdb>
+		<title>Get Carter</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/mVDDWvu5PNVFaf6JCqIuj1HmZ1C.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/mU1wbpRA25lJch7GE5QKn3Bp96a.jpg</fanart>
+</item>
+
+<item>
+	<title>The Hills Have Eyes (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077681</imdb>
+		<title>The Hills Have Eyes</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/5vt8y3X9C77r4sTFqH7D5tqAjGL.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/cIlLMj1YFlVj2xCfKEcgZ38p3Df.jpg</fanart>
+</item>
+
+<item>
+	<title>King Kong (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074751</imdb>
+		<title>King Kong</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lyMgOphIY5iMASdzew7Fju1dSNC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ydiIbLKBH1bpDd9HJRKSa1RIkIF.jpg</fanart>
+</item>
+
+<item>
+	<title>The Way of the Dragon (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068935</imdb>
+		<title>The Way of the Dragon</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uVASFTBi4EDOI0mqx2PXUYdhxps.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/Bb3n0Kdw3qgAWEmp8gNt9ZN6jQ.jpg</fanart>
+</item>
+
+<item>
+	<title>Black Christmas (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071222</imdb>
+		<title>Black Christmas</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qNzTBosZUu2pghn86qo9caqfiKM.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/zfs9QuKkZL6ZCluGvjo5Pk49aMv.jpg</fanart>
+</item>
+
+<item>
+	<title>Escape from the Planet of the Apes (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067065</imdb>
+		<title>Escape from the Planet of the Apes</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yOnN43HdxvV5h5U4qsGIfeUL0Zv.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xE99ZdJKTc3y5vsBbrzvTsGPyeh.jpg</fanart>
+</item>
+
+<item>
+	<title>...And Justice for All (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078718</imdb>
+		<title>...And Justice for All</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xiMZwW8GJiJteLZttRwxVi7oFet.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/j3FcOV6Ss3DYS8S170R2O6dHB3J.jpg</fanart>
+</item>
+
+<item>
+	<title>Sholay (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073707</imdb>
+		<title>Sholay</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/mgy5myvnG87BN8WrzvkBYOnAOYK.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pDV835a8nxdiJsRbKjDp5GOw373.jpg</fanart>
+</item>
+
+<item>
+	<title>Cross of Iron (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074695</imdb>
+		<title>Cross of Iron</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/vDvKosoxKLuQhH2jAc4YMQEAoOI.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ay20aVc5m1WHkwJUuy7kfDXVFWO.jpg</fanart>
+</item>
+
+<item>
+	<title>Jeremiah Johnson (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068762</imdb>
+		<title>Jeremiah Johnson</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/i2wo9M885KcSljpbut24xZCx05r.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1UuXXbXd5GvO1hQuMW3rEko1ymd.jpg</fanart>
+</item>
+
+<item>
+	<title>The Boys from Brazil (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077269</imdb>
+		<title>The Boys from Brazil</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9fwAXB7cal1K0LQLzFvDTkl9MZP.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/snD18pxbgJSuMHKwPGD3AuD3aNV.jpg</fanart>
+</item>
+
+<item>
+	<title>The China Syndrome (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078966</imdb>
+		<title>The China Syndrome</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/u0tbxqq0krtGMWnuycmikHPQ22Z.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/glzMRaDf6aBEwNkkR9Z0jmrYYbW.jpg</fanart>
+</item>
+
+<item>
+	<title>The Getaway (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068638</imdb>
+		<title>The Getaway</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/z1uONiPWAElAWDK7uZpSC7Tpvuq.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7g8JUzwESKfhWspI4JA1U9EXG86.jpg</fanart>
+</item>
+
+<item>
+	<title>Damien: Omen II (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077394</imdb>
+		<title>Damien: Omen II</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gXpCjRUqgWDxufXqt34qyVweJnQ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2uvFzhyfiUihVhvkryhyojjAc99.jpg</fanart>
+</item>
+
+<item>
+	<title>Death Race 2000 (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072856</imdb>
+		<title>Death Race 2000</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/chM7UfEodNlU5AvQfqzIGxIXcns.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/naTwwyTZqDzBQg6ttXUp8f1nuie.jpg</fanart>
+</item>
+
+<item>
+	<title>Silent Running (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067756</imdb>
+		<title>Silent Running</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kyEljmcf7YYmp85BdZffqiuRLfV.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3yBuB6RygpS2qNAoLySzweDhrYj.jpg</fanart>
+</item>
+
+<item>
+	<title>The Taking of Pelham One Two Three (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072251</imdb>
+		<title>The Taking of Pelham One Two Three</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rM3DsJYnk7jW4ppfYxSLCxGoziI.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/3QgM4RiF3Qcnba5gMO35746NLNC.jpg</fanart>
+</item>
+
+<item>
+	<title>Zombie (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0080057</imdb>
+		<title>Zombie</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wP6FyRrK5PNsyEwDFrrG8Pi9G8n.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/yISI00qg7XVMNjiDux3JjPvrYeS.jpg</fanart>
+</item>
+
+<item>
+	<title>Deep Red (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073582</imdb>
+		<title>Deep Red</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rSHs6nsCw6vJwgz9djlAp4g3NCN.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/iMUwq7UnXQOlTjKIRWpfKSbyzp3.jpg</fanart>
+</item>
+
+<item>
+	<title>Jesus Christ Superstar (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070239</imdb>
+		<title>Jesus Christ Superstar</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/oEWvnlFOPMl6dN7isxUvWRRNQby.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/x5V8j9EIBKVCfoPzVO6ctosyhlN.jpg</fanart>
+</item>
+
+<item>
+	<title>The Return of the Pink Panther (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072081</imdb>
+		<title>The Return of the Pink Panther</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/zmUzVu8WmHsH0gtVqWCtftar5kW.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/54Hx8e2hyJLljB1skSwMCeKFizb.jpg</fanart>
+</item>
+
+<item>
+	<title>Play It Again, Sam (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069097</imdb>
+		<title>Play It Again, Sam</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nPVMwE0PXNWKf0jZuUJoUnuKZhM.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/atV8mybfpXgdRD0nxySLkJV1OsZ.jpg</fanart>
+</item>
+
+<item>
+	<title>The Great Gatsby (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071577</imdb>
+		<title>The Great Gatsby</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9MLgkjflekg2b1CKMgRZrpMLqDs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uc0UUkz5D8a6OZQ0VUaUwOPRlAb.jpg</fanart>
+</item>
+
+<item>
+	<title>I Spit on Your Grave (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077713</imdb>
+		<title>I Spit on Your Grave</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/vmox5ufWCHnfxbC8cgx6sbMqu6V.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/u1YrVf4665Gv8od4VKgP2r6pOIY.jpg</fanart>
+</item>
+
+<item>
+	<title>Death on the Nile (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077413</imdb>
+		<title>Death on the Nile</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/pgR1eEc4nSmGSd9VXhomKXvsGYQ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7OIhJjQnM4CKCMN9wLIXmzg3tbF.jpg</fanart>
+</item>
+
+<item>
+	<title>The Black Hole (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078869</imdb>
+		<title>The Black Hole</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/20IPuZOXNRZJBN0loUYClFR8cpx.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/fTffSYoqcxskecnIMX9YJSvmilA.jpg</fanart>
+</item>
+
+<item>
+	<title>Cries and Whispers (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069467</imdb>
+		<title>Cries and Whispers</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/m2lG7g1JAzYNsgBRrDhzZe5bEDz.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gcRqMPvldO3nri9a6wnNMGWltqd.jpg</fanart>
+</item>
+
+<item>
+	<title>The Holy Mountain (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071615</imdb>
+		<title>The Holy Mountain</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/u8HQzZyBzc4I3v0HcRv5EgNfMBR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rDraIKqTIzptvCCkyY5sHKRBm8X.jpg</fanart>
+</item>
+
+<item>
+	<title>Play Misty for Me (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067588</imdb>
+		<title>Play Misty for Me</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/gMMYNpxsVwGjgtMR20dKXr3kWUg.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/owqxugHrY65LFsSgXkx2O1iIOjG.jpg</fanart>
+</item>
+
+<item>
+	<title>All That Jazz (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078754</imdb>
+		<title>All That Jazz</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/x4ppWRGH3pfVmEsbNC8UhvZVswd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/jcQdwJqP7UB4Kf98iZIQ6lMtYJH.jpg</fanart>
+</item>
+
+<item>
+	<title>Mirror (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072443</imdb>
+		<title>Mirror</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/37EBRMPRpF49t2gDvr2ybXkVKYa.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/b9KF4K0zMCpemVgJuCL22nvGxFL.jpg</fanart>
+</item>
+
+<item>
+	<title>Catch-22 (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065528</imdb>
+		<title>Catch-22</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jhq5xbJh2uvUQaBoQEIfsB2iNg2.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/9ocPmuSmqP0YbGSDKcHlm64FC3E.jpg</fanart>
+</item>
+
+<item>
+	<title>1900 (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074084</imdb>
+		<title>1900</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lgydVQAt4wFBc2hvf9uWgUXtsb3.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7yiI7Z3TSPSOWbEPeWIetZlSzEP.jpg</fanart>
+</item>
+
+<item>
+	<title>The Tin Drum (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078875</imdb>
+		<title>The Tin Drum</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bHKwTyB7iAsXt0EpZN1iNA34bPs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/laJgZELONuol26xQAKakn79CFBw.jpg</fanart>
+</item>
+
+<item>
+	<title>Breaking Away (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078902</imdb>
+		<title>Breaking Away</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/aHQj3D9fvWILOZWLuqS3WRHjGkq.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/aH25DYXwoWMI2Wj9cQtkLk3Ax4T.jpg</fanart>
+</item>
+
+<item>
+	<title>Dersu Uzala (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071411</imdb>
+		<title>Dersu Uzala</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9H3nXMcnwrihl5QF0EP0L5Deffx.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xpHIp4ZQjmfLslA2O4yfOG8O700.jpg</fanart>
+</item>
+
+<item>
+	<title>The Shootist (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075213</imdb>
+		<title>The Shootist</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/9K4eDXp3mJnrvBcBRFszujqEP48.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ysp0PigZ9uiTb9aE3K9yS62la5N.jpg</fanart>
+</item>
+
+<item>
+	<title>The Big Boss (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067824</imdb>
+		<title>The Big Boss</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/txmbBHN45wqWn4qrT9MPlDhuJCA.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/tzmHdegHSKVUwnJYvdMiolAWnWO.jpg</fanart>
+</item>
+
+<item>
+	<title>Fist of Fury (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068767</imdb>
+		<title>Fist of Fury</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jtm94bGz4uqOVD8aIj12LQwj7Rs.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/fy1C5tM9L39i7JF0iw6DIycOO1j.jpg</fanart>
+</item>
+
+<item>
+	<title>My Name Is Nobody (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070215</imdb>
+		<title>My Name Is Nobody</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lPQ7aqfPJnrLyPwKUYscHdLXpC6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/khIbImstNPb0ABMONVMudksE7Yo.jpg</fanart>
+</item>
+
+<item>
+	<title>Nashville (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073440</imdb>
+		<title>Nashville</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bGnArVmtOqBqU5TDGi5DewcDKQd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dyK4NOS0zIUpEHFBQWzBveBpQwF.jpg</fanart>
+</item>
+
+<item>
+	<title>Walkabout (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067959</imdb>
+		<title>Walkabout</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bdyM4PzaceqTen7ZKW41KW8lbfO.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8WwfbCSqb4xeCQXX7ZDOYpNWcjq.jpg</fanart>
+</item>
+
+<item>
+	<title>The Long Goodbye (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070334</imdb>
+		<title>The Long Goodbye</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/oebPYg9XjHjsGzjWwrM8fuHkHOU.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/brm75bRffmi2SlsUmsHUxUVI1Hg.jpg</fanart>
+</item>
+
+<item>
+	<title>Rollerball (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073631</imdb>
+		<title>Rollerball</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ilPJofDdyoKC1hJG7sdykLBUKZc.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/vDEuilWiK33oy74tDSxtU9eL8RK.jpg</fanart>
+</item>
+
+<item>
+	<title>The Brood (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078908</imdb>
+		<title>The Brood</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/t8pFmS8tvLT6khNpp7gGC7li7Jt.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/SOgoUJIBuqoSg2HOBaDWi95enb.jpg</fanart>
+</item>
+
+<item>
+	<title>The Bad News Bears (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074174</imdb>
+		<title>The Bad News Bears</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/fsOwHPZBtCgn1APmOtWlp1KNcIZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6BxcdvEgRFO5gt68x8vpGW4QZew.jpg</fanart>
+</item>
+
+<item>
+	<title>Every Which Way But Loose (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077523</imdb>
+		<title>Every Which Way But Loose</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/waGLjW4eC8zww90iTZKX7vFm2DM.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/4YdEQTF7wZyl2kTKsRc567Lp3q3.jpg</fanart>
+</item>
+
+<item>
+	<title>Pete's Dragon (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076538</imdb>
+		<title>Pete's Dragon</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/e0jZxnjmR6S4EhMl3reHOJYRrqo.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/whV2m7YPb6OLf5PddGEjcYmJHV7.jpg</fanart>
+</item>
+
+<item>
+	<title>Capricorn One (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077294</imdb>
+		<title>Capricorn One</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/iHhMZP9YFRdKbBP1jLFrN9Xkh3T.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/iZAXxEDTZoA7A65mdzHXdF8bySU.jpg</fanart>
+</item>
+
+<item>
+	<title>Dark Star (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069945</imdb>
+		<title>Dark Star</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hLnYs90BBYBRXpmYQUIPgIKZxvF.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1His1LcRq6tekJCDd2ns6mmRLDS.jpg</fanart>
+</item>
+
+<item>
+	<title>Pink Flamingos (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069089</imdb>
+		<title>Pink Flamingos</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/oRNBSoftw842k8cHQMjczZJ3z3A.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/aAQ0Bcx03AJPjQWIURptl0oXLAA.jpg</fanart>
+</item>
+
+<item>
+	<title>Exorcist II: The Heretic (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076009</imdb>
+		<title>Exorcist II: The Heretic</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jIVYbxsp6y80wyfLlnKkRc9rI6Q.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/sABEfSEb3ZTu8eO0q20sixezbVY.jpg</fanart>
+</item>
+
+<item>
+	<title>El Topo (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067866</imdb>
+		<title>El Topo</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/4kggRn855GvcVm6sl17zDYD3jqA.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/qfNSG6VzyxtGj83q0Vio44CruUv.jpg</fanart>
+</item>
+
+<item>
+	<title>The Way We Were (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070903</imdb>
+		<title>The Way We Were</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rBGl0tsmOemuvo7jrbxvtM0Y7NP.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ujBTiMtVi65e1Z8VcGGRWhQUCf2.jpg</fanart>
+</item>
+
+<item>
+	<title>The Last Detail (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070290</imdb>
+		<title>The Last Detail</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/4kcSyOXWd42G2zAzdSXCx6nhflb.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/q1nlYO7iuTf7E0SmsHF2TdPNk1F.jpg</fanart>
+</item>
+
+<item>
+	<title>Two Mules for Sister Sara (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065134</imdb>
+		<title>Two Mules for Sister Sara</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/o2miC0ZiOaX4ob9LQCjQw3P2V7z.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gTHNIyo8uTHSeNUazqZjDp3ZMX.jpg</fanart>
+</item>
+
+<item>
+	<title>The Man Who Fell to Earth (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074851</imdb>
+		<title>The Man Who Fell to Earth</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wLyhPmNXiXrYKqqTOq63oSex6qi.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/y3U2fDOWbT0bEDa40PRSHPyA7rY.jpg</fanart>
+</item>
+
+<item>
+	<title>McCabe & Mrs. Miller (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067411</imdb>
+		<title>McCabe & Mrs. Miller</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/buuKUShkNWfF5clxVE2pGCBFu81.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/eu1tpFquagrdJGJZ4sPZcnODp4l.jpg</fanart>
+</item>
+
+<item>
+	<title>The Conformist (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065571</imdb>
+		<title>The Conformist</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hIjOdQW7vRHjK3VBEYC3fRTfi52.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bXh2sRsW99JKPnZoAWh3Im1Xfh4.jpg</fanart>
+</item>
+
+<item>
+	<title>Tommy (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073812</imdb>
+		<title>Tommy</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/4viJcRFgF4cCPnJWgpvb3CRd2pK.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/u5mDZ5MVjuOQGtEzfzhFXbq1Bu.jpg</fanart>
+</item>
+
+<item>
+	<title>Revenge of the Pink Panther (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078163</imdb>
+		<title>Revenge of the Pink Panther</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rbSHQ2wslGEJHjN8Y7XpdKaihyR.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kmWQYoCN1fG0P94G85VGXJdhnjK.jpg</fanart>
+</item>
+
+<item>
+	<title>Thunderbolt and Lightfoot (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072288</imdb>
+		<title>Thunderbolt and Lightfoot</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ys9vfK1436huuHsUpM7MxBkX3qS.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gwVQKnVSfWcH9wVlnwQXaqVNlaL.jpg</fanart>
+</item>
+
+<item>
+	<title>Klute (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067309</imdb>
+		<title>Klute</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/na0G9mmPKDWBhmLc5Rh2Eiwux6N.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rsRAbG1t3V6bnlcmyIMIIKo0h3K.jpg</fanart>
+</item>
+
+<item>
+	<title>Alice Doesn't Live Here Anymore (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071115</imdb>
+		<title>Alice Doesn't Live Here Anymore</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/k2D6D2tf1toPjqG4e4RjfG1a0bb.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pPnduWEVCdo8usHuKoL4iOdza66.jpg</fanart>
+</item>
+
+<item>
+	<title>Family Plot (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074512</imdb>
+		<title>Family Plot</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/m4iUOVZF0V5j7iKZjFgxtmWaNh3.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5g1nME6KpE7c6kqAr3XfxlzFHzG.jpg</fanart>
+</item>
+
+<item>
+	<title>Hababam Sınıfı Sınıfta Kaldı (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0252488</imdb>
+		<title>Hababam Sınıfı Sınıfta Kaldı</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kUUmpQKYkr5qv0QJlwsSv2ulfIe.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/qeK9r3Aky47VOkNTW8oq0tKbkmj.jpg</fanart>
+</item>
+
+<item>
+	<title>The Gauntlet (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076070</imdb>
+		<title>The Gauntlet</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/5mqMqi3P3yJCxbrC6voBqUXkZOT.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/AqLSm9sl2Oe46XvqhoRBhKI3wXi.jpg</fanart>
+</item>
+
+<item>
+	<title>The Passenger (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073580</imdb>
+		<title>The Passenger</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kFzH3trbj0DsM9VJBZ5L85A04Uz.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/sob4ZCEoS4sZq5PMIXp9VyAczFc.jpg</fanart>
+</item>
+
+<item>
+	<title>The Kentucky Fried Movie (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076257</imdb>
+		<title>The Kentucky Fried Movie</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/mKsEoJf6Anet52lsWPfQEYcX5xr.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uRUCFHzusW3GONa2oieJgSDM7Qm.jpg</fanart>
+</item>
+
+<item>
+	<title>Zardoz (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070948</imdb>
+		<title>Zardoz</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/x4jEa65IzQu5MRbIyBtucd11B8e.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/1r3TBlj2IGqwQcsbenzSRFwBkNj.jpg</fanart>
+</item>
+
+<item>
+	<title>The Duellists (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075968</imdb>
+		<title>The Duellists</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/zoioQnFsfDlZ0rG6jdrdmj6pw9f.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/znJW6Qpck6nyznC48cDIrdJ9Fh9.jpg</fanart>
+</item>
+
+<item>
+	<title>Meatballs (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079540</imdb>
+		<title>Meatballs</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/o0NmLgnCVph7I07OP0yKGPFoLrO.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2whAe8FQiUZdeS7W78vcvhzO4eF.jpg</fanart>
+</item>
+
+<item>
+	<title>Lupin the Third: The Castle of Cagliostro (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079833</imdb>
+		<title>Lupin the Third: The Castle of Cagliostro</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/dN1InfPfmgxLwxirsR0SBXRydm9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/vU3i14QtALFCFT8gNmXg96NLYKH.jpg</fanart>
+</item>
+
+<item>
+	<title>What's Up, Doc? (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0069495</imdb>
+		<title>What's Up, Doc?</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/x1rkdx7qQKC8lTqlM7EwkmDSXd8.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bhPrud4ZautSLPXlSiS5FYizFbj.jpg</fanart>
+</item>
+
+<item>
+	<title>Heaven Can Wait (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077663</imdb>
+		<title>Heaven Can Wait</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nIK6aASJsm9FVWs4HN5aDykZLwD.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uvlANm5V0NbJILSjbUHmSDkGiSa.jpg</fanart>
+</item>
+
+<item>
+	<title>High Anxiety (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076141</imdb>
+		<title>High Anxiety</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hJwcsCzbIGt9G2V3E7lcdxxfIea.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kGws2C41ki97hFUkwCdpywPeW5S.jpg</fanart>
+</item>
+
+<item>
+	<title>Piranha (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078087</imdb>
+		<title>Piranha</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1zLfxqSYYUggjWnSeBqNaRSqLmC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kRLQwAgBnOuF3LXkEHwJG8iCcum.jpg</fanart>
+</item>
+
+<item>
+	<title>That Obscure Object of Desire (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075824</imdb>
+		<title>That Obscure Object of Desire</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uO3P8PsatlcHfmLjpHsGQdRrHLh.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bRuPfz5oC2RHfuAADwojhdinGU3.jpg</fanart>
+</item>
+
+<item>
+	<title>Day for Night (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070460</imdb>
+		<title>Day for Night</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/aerF4eDsrSWZWPfJ7svnrIXkWZD.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/wwJEcAKY5drJj9o4EJKIOjLDZNF.jpg</fanart>
+</item>
+
+<item>
+	<title>Force 10 from Navarone (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077572</imdb>
+		<title>Force 10 from Navarone</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hcvhw7ev8uxtMCtaXG8iWesZ2fw.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/oeJHW3H8b60TszYYY6PLCvMierd.jpg</fanart>
+</item>
+
+<item>
+	<title>Autumn Sonata (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077711</imdb>
+		<title>Autumn Sonata</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/3PQwY5I8I1272BHkYwDaGUBbUY0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/sR3g3bJnOn2wPiElOujq3ZiMPav.jpg</fanart>
+</item>
+
+<item>
+	<title>The Eagle Has Landed (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074452</imdb>
+		<title>The Eagle Has Landed</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/i60g0w4ow7VbdgmSklJ2tqSYYMa.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lK8GChOUNcqGDU0VARSqzrZsjel.jpg</fanart>
+</item>
+
+<item>
+	<title>The Red Circle (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065531</imdb>
+		<title>The Red Circle</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jUA29RNHCs82s0v4nDlhZVS9SNC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bzkTNB2lXijMbRuk0CVq3jJPTCv.jpg</fanart>
+</item>
+
+<item>
+	<title>Charlotte's Web (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070016</imdb>
+		<title>Charlotte's Web</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/aX0r77IQffLo3Efo6sP2ORwIcEM.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rcFsZsgTwC4fz8Hv0d2MtauO9Rh.jpg</fanart>
+</item>
+
+<item>
+	<title>Midway (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074899</imdb>
+		<title>Midway</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2JF27vjTCCneksfgzTQgUanP79x.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6jeTEV03QLsjkEomKM6XhjoVJch.jpg</fanart>
+</item>
+
+<item>
+	<title>Death in Venice (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067445</imdb>
+		<title>Death in Venice</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/uaCO0YWhpVjppk3IgLwmHSDtrrT.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/b0WDCEous38lLeeEsAMhOC8U4cd.jpg</fanart>
+</item>
+
+<item>
+	<title>Coma (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077355</imdb>
+		<title>Coma</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wXhYCwf7yhnvlJxhl8nIcSWb4Aw.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lqSrXYzmMEAFkintG5WfIJ57occ.jpg</fanart>
+</item>
+
+<item>
+	<title>Interiors (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077742</imdb>
+		<title>Interiors</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/s6Xigqv3H6yP1bAZObBAaAVrHGZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/xS01X3FDDYvDNdoj9hEqsUH9iBy.jpg</fanart>
+</item>
+
+<item>
+	<title>The Longest Yard (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071771</imdb>
+		<title>The Longest Yard</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/e9YEVI0hgVM5XkRZbvYWw656STZ.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/hyItLEBBGxISRxDlUWPY3VeVqY0.jpg</fanart>
+</item>
+
+<item>
+	<title>New York, New York (1977)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0076451</imdb>
+		<title>New York, New York</title>
+		<year>1977</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/c6Drp8f0TS7HS5nKtE9Porzpd4u.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/oTBxvPzfn2EtTV7b7FGGmXxJqP3.jpg</fanart>
+</item>
+
+<item>
+	<title>Pat Garrett & Billy the Kid (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0070518</imdb>
+		<title>Pat Garrett & Billy the Kid</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/b2T0hxFReZa1KQCaw7RGhOyukOW.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/w0QtUlmi6n6LDOIYbJEiMcw4Tt0.jpg</fanart>
+</item>
+
+<item>
+	<title>Silver Streak (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075223</imdb>
+		<title>Silver Streak</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/sFGTQkoUSytqsvZm7hUrxkmVhEy.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/fpOVmEvq3ADu0RKpQLjXZOGGHqa.jpg</fanart>
+</item>
+
+<item>
+	<title>Bring Me the Head of Alfredo Garcia (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071249</imdb>
+		<title>Bring Me the Head of Alfredo Garcia</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hn1HPGhz0AmTSVDfj5ZHoSK3J3j.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7Yq1urnYjMNZHrFWyttjfiryTs7.jpg</fanart>
+</item>
+
+<item>
+	<title>Airport (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0065377</imdb>
+		<title>Airport</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/lKRsOCB1FlZYD7tYPHValBAqmwm.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/u3HFkQBuOF3PMgTvKL0k3ZMl1am.jpg</fanart>
+</item>
+
+<item>
+	<title>Quadrophenia (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0079766</imdb>
+		<title>Quadrophenia</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6ek1jQgI2XsPZ1zwTUvYeEiWYld.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8CAO7f6jp3nJGYJCCKMuOF7ZbUC.jpg</fanart>
+</item>
+
+<item>
+	<title>Süt Kardeşler (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0253779</imdb>
+		<title>Süt Kardeşler</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/sLqoLR1e9PsxiCrRrJovaI1mAau.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8SPuIxjG1z5UVVmG8ZCNopnGJUD.jpg</fanart>
+</item>
+
+<item>
+	<title>The Stepford Wives (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073747</imdb>
+		<title>The Stepford Wives</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/fqpH2y1xOeygP2Oy5rRQfnqmau6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uyp8L1nwXhBxWjT9wQh15AzxMpQ.jpg</fanart>
+</item>
+
+<item>
+	<title>In the Realm of the Senses (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074102</imdb>
+		<title>In the Realm of the Senses</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ztLv3Co2uLZMV7YERWbPrTMUi03.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6tkpY2SXnUBwWV4wDTWvvPGe9i6.jpg</fanart>
+</item>
+
+<item>
+	<title>They Call Me Trinity (1970)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067355</imdb>
+		<title>They Call Me Trinity</title>
+		<year>1970</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kqNg5jgj2lc1kPOZlADSL3oRzWp.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/iE2Y2s15xQcNTG3x7gU2gZVvZ9x.jpg</fanart>
+</item>
+
+<item>
+	<title>Shaft (1971)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0067741</imdb>
+		<title>Shaft</title>
+		<year>1971</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ez5aGeyOvG2F1QzKYHzkMmkDuM2.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/c2BoYhEq7AIGSqJKhaRmHqiNoNI.jpg</fanart>
+</item>
+
+<item>
+	<title>The Three Musketeers (1973)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072281</imdb>
+		<title>The Three Musketeers</title>
+		<year>1973</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/6DBf0MhwjtHsFF9xqSZlez3flr8.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2Tksu4YRofpEk8uw3bB5TCKLflw.jpg</fanart>
+</item>
+
+<item>
+	<title>A Woman Under the Influence (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072417</imdb>
+		<title>A Woman Under the Influence</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/zdXEvgULYlz53iUsFWO244ZMKXC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/i7qIWDARzn9vmuR4i0XvbhxYlhb.jpg</fanart>
+</item>
+
+<item>
+	<title>10 (1979)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0078721</imdb>
+		<title>10</title>
+		<year>1979</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/7GGpt49Q2c98zVz514mHlRjCpGy.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/scMEqeM3penI4f79jf9Qym4NwDr.jpg</fanart>
+</item>
+
+<item>
+	<title>Bugsy Malone (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0074256</imdb>
+		<title>Bugsy Malone</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/nPpaL4kNMMnyk9jMeryo0XzimFh.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/4kLn7wE5QoXTIxpEpCsXYL8JTLR.jpg</fanart>
+</item>
+
+<item>
+	<title>A Boy and His Dog (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072730</imdb>
+		<title>A Boy and His Dog</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/r0dqfKuPFgnLfJY7j9YmJIyKvu1.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pTpEjMBxwxUjSkRnz3ufbtZXlcD.jpg</fanart>
+</item>
+
+<item>
+	<title>The Enigma of Kaspar Hauser (1974)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0071691</imdb>
+		<title>The Enigma of Kaspar Hauser</title>
+		<year>1974</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jkbnlcex3xfndksKuwVeI0EmuhW.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/gePcNhrvKUl6ar9aQsiJjA9jgv9.jpg</fanart>
+</item>
+
+<item>
+	<title>Silent Movie (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0075222</imdb>
+		<title>Silent Movie</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/wajNlrVDkryVGTzDz9vZE6XKZnC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/mA80Za8OS62eavKMMSLNYFIPtqH.jpg</fanart>
+</item>
+
+<item>
+	<title>The Eiger Sanction (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0072926</imdb>
+		<title>The Eiger Sanction</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/q1GB9vhp2WgnCTxo4PqNAo5yG9u.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/AfkACKbBjBKViIh1XhGLbXb0GOX.jpg</fanart>
+</item>
+
+<item>
+	<title>French Connection II (1975)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0073018</imdb>
+		<title>French Connection II</title>
+		<year>1975</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/xCRK4tYNPLagqZx4MtjMzLiQCGl.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/ukzMrXKHp9qhPBBpjDixuFmm3gJ.jpg</fanart>
+</item>
+
+<item>
+	<title>Hababam Sınıfı Uyanıyor (1976)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0252490</imdb>
+		<title>Hababam Sınıfı Uyanıyor</title>
+		<year>1976</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ngVujpujv5pJjXzPdnjbNR9e32S.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/20dEa7gfCwC9ue5X8ws20sCTEtx.jpg</fanart>
+</item>
+
+<item>
+	<title>Game of Death (1978)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0077594</imdb>
+		<title>Game of Death</title>
+		<year>1978</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/e5qS6ID2KtunmTt0sr4ZXPPFxFt.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7QSm8b79BWB9x71CxXglyvgjcLu.jpg</fanart>
+</item>
+
+<item>
+	<title>Joe Kidd (1972)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0068768</imdb>
+		<title>Joe Kidd</title>
+		<year>1972</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/roB7o3RL4laNbm4eAJyvQrANZM7.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/rKSnMSc7312zD9pqCi1Nla8gBfl.jpg</fanart>
+</item>
+
