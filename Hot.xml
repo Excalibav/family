@@ -15,6 +15,7 @@
     <dir>
       <title>Popular Shows</title>
       <trakt>https://api.trakt.tv/shows/popular</trakt>
+	    <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
     </dir>
 	
 	  <dir>
