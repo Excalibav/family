@@ -17,14 +17,6 @@
       <trakt>https://api.trakt.tv/users/staael2014/lists/tv-shows/items</trakt>
     </dir>
 	
-	<dir>
-      <title>TVshow2</title>
-      <trakt>https://api.trakt.tv/users/staael2014/lists/tv-shows/item</trakt>
-    </dir>
-	
-		
-	
-	
 	  <dir>
       <title>TMDB Popular</title>
       <tmdb>movies/popular</tmdb>
