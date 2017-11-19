@@ -2,19 +2,24 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
+	   <dir>
+      <title>Popular movies TMDB</title>
+      <tmdb>movies/popular</tmdb>
+    </dir>
+	
 <dir>
-      <title>Trending Movies</title>
+      <title>Trending Movies Trakt</title>
       <trakt>https://api.trakt.tv/movies/trending</trakt>
     </dir>
 	
 	<dir>
-      <title>Popular Movies</title>
+      <title>Popular Movies Trakt</title>
       <trakt>https://api.trakt.tv/movies/popular</trakt>
     </dir>
 	
-	<dir>
-      <title>TVshow1</title>
-      <trakt>https://api.trakt.tv/users/staael2014/lists/tv-shows/items</trakt>
+	 <dir>
+      <title>TMDB List: tv shows</title>
+      <tmdb>list/38949</tmdb>
     </dir>
 	
 	    <dir>
