@@ -12,6 +12,19 @@
       <trakt>https://api.trakt.tv/movies/popular</trakt>
     </dir>
 	
+	<dir>
+      <title>TVshow1</title>
+      <trakt>https://api.trakt.tv/users/staael2014/lists/tv-shows/items</trakt>
+    </dir>
+	
+	<dir>
+      <title>TVshow2</title>
+      <trakt>https://api.trakt.tv/users/staael2014/lists/tv-shows/item</trakt>
+    </dir>
+	
+		
+	
+	
 	  <dir>
       <title>TMDB Popular</title>
       <tmdb>movies/popular</tmdb>
@@ -21,6 +34,8 @@
       <title>Idris Elba TMDB</title>
       <tmdb>person/movies/17605</tmdb>
     </dir>
+	
+
 	
 <item>
   <title>The Elf (2017)</title>
