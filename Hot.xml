@@ -18,9 +18,9 @@
     </dir>
 	
 	<dir>
-  <title>Boxing movies</title>
-  <trakt>https://api.trakt.tv/users/staael2014/lists/boxing-movies/items</trakt> 
-</dir>
+      <title>Idris Elba TMDB</title>
+      <tmdb>person/movies/17605</tmdb>
+    </dir>
 	
 <item>
   <title>The Elf (2017)</title>
