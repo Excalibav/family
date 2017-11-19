@@ -17,11 +17,6 @@
       <tmdb>movies/popular</tmdb>
     </dir>
 	
-		  <dir>
-      <title>TMDB Popular</title>
-      <tmdb>Paszt/lists</tmdb>
-    </dir>
-	
 	<dir>
   <title>Boxing movies</title>
   <trakt>https://api.trakt.tv/users/staael2014/lists/boxing-movies/items</trakt>
