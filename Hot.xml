@@ -2,8 +2,14 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
+	 <plugin>
+<title>TEST</title>
+<link>plugin://plugin.video.elysium/</link>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/addon.png</thumbnail>
+</plugin>
+	 
 	 <dir>
-      <title>TMDB List: tv shows</title>
+      <title>Valhalla TV shows</title>
       <tmdb>list/38949</tmdb>
     </dir>
 	
