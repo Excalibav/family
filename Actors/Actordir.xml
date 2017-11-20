@@ -43,6 +43,12 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Bill%20Murray.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/lBXifSLzs1DuspaWkACjSfjlwbd.jpg</thumbnail></dir>
 
+<dir>
+      <title>Charlie Hunnam</title>
+      <tmdb>person/movies/56365</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/ys1bjg4vXqcEOGw6vkKHhqUIFtl.jpg</thumbnail>
+    </dir>
+
 <dir><name>Christian Bale</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Christian%20Bale.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/vecCvACI2QhSE5fOoANeWDjxGKM.jpg</thumbnail></dir>
@@ -62,6 +68,12 @@
 <dir><name>Edward Norton</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Edward%20Norton.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/eIkFHNlfretLS1spAcIoihKUS62.jpg</thumbnail></dir>
+
+<dir>
+      <title>Elijah Wood</title>
+      <tmdb>person/movies/109</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/qwWrgijNw23w3nVcHyP1O1SRhi7.jpg</thumbnail>
+    </dir>
 
 <dir><name>Ethan Hawke</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Ethan%20Hawke.xml</link>
@@ -249,6 +261,12 @@
 <dir><name>Sylvester Stallone</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Sylvester%20Stallone.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/gnmwOa46C2TP35N7ARSzboTdx2u.jpg</thumbnail></dir>
+
+<dir>
+      <title>Theo Rossi</title>
+      <tmdb>person/movies/51995</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/albY2DqQr8JOIigC75siI4Bb0VJ.jpg</thumbnail>
+    </dir>
 
 <dir><name>Tom Cruise</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Tom%20Cruise.xml</link>
