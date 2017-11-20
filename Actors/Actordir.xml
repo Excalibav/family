@@ -48,6 +48,12 @@
       <tmdb>person/movies/56365</tmdb>
 	  <thumbnail>https://image.tmdb.org/t/p/original/ys1bjg4vXqcEOGw6vkKHhqUIFtl.jpg</thumbnail>
     </dir>
+	
+	<dir> 
+      <title>Charlie Hunnam</title>
+      <tmdb>person/movies/56365</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/ys1bjg4vXqcEOGw6vkKHhqUIFtl.jpg</thumbnail>
+    </dir>
 
 <dir><name>Christian Bale</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Christian%20Bale.xml</link>
