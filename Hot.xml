@@ -13,34 +13,22 @@
       <tmdb>list/38956</tmdb>
     </dir>
 	
+	  <dir>
+      <title>TMDB Action Movies</title>
+      <tmdb>genre/movies/28</tmdb>
+    </dir>
+	
+	 <dir>
+      <title>TMDB animation</title>
+      <tmdb>genre/movies/28</tmdb>
+    </dir>
+	
 	    <dir>
       <title>Trending Shows</title>
       <trakt>https://api.trakt.tv/shows/trending</trakt>
     </dir>
 
-    <dir>
-      <title>Popular Shows</title>
-      <trakt>https://api.trakt.tv/shows/popular</trakt>
-	    <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
-    </dir>
-	
-	  <dir>
-      <title>TMDB Popular</title>
-      <tmdb>movies/popular</tmdb>
-    </dir>
-	
-	<dir>
-      <title>John wayne TMDB</title>
-      <tmdb>person/movies/4165</tmdb>
-    </dir>
-	
-	<dir>
-      <title>Jennifer Lopez TMDB</title>
-      <tmdb>person/movies/16866</tmdb>
-    </dir>
-	
-
-	
+  
 <item>
   <title>The Elf (2017)</title>
   <meta>
