@@ -43,18 +43,6 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Bill%20Murray.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/lBXifSLzs1DuspaWkACjSfjlwbd.jpg</thumbnail></dir>
 
-<dir> 
-      <title>Charlie Hunnam</title>
-      <tmdb>person/movies/56365</tmdb>
-	  <thumbnail>https://image.tmdb.org/t/p/original/ys1bjg4vXqcEOGw6vkKHhqUIFtl.jpg</thumbnail>
-    </dir>
-	
-	<dir> 
-      <title>Charlie Hunnam</title>
-      <tmdb>person/movies/56365</tmdb>
-	  <thumbnail>https://image.tmdb.org/t/p/original/ys1bjg4vXqcEOGw6vkKHhqUIFtl.jpg</thumbnail>
-    </dir>
-
 <dir><name>Christian Bale</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Christian%20Bale.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/vecCvACI2QhSE5fOoANeWDjxGKM.jpg</thumbnail></dir>
@@ -66,6 +54,12 @@
 <dir><name>Denzel Washington</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Denzel%20Washington.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/t9arcZbg1nLt8GZt2SkWm227YoK.jpg</thumbnail></dir>
+
+<dir>
+      <title>Dustin Hoffman</title>
+      <tmdb>person/movies/4483</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/hu9OiTQYIC9ZM5cm2t9FjXjIVy3.jpg</thumbnail>
+    </dir>
 
 <dir><name>Dwayne Johnson</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Dwayne%20Johnson.xml</link>
@@ -183,6 +177,12 @@
 <dir><name>Mark Wahlberg</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Mark%20Wahlberg.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg</thumbnail></dir>
+
+<dir>
+      <title>Marlon Brando</title>
+      <tmdb>person/movies/3084</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/e2u2Vyy66j2rUL8fyjjHWlYtWLH.jpg</thumbnail>
+    </dir>
 
 <dir><name>Matthew McConaughey</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Matthew%20McConaughey.xml</link>
