@@ -124,6 +124,12 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Johnny%20Depp.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/ea4fTp9T8Zy2KWxyFsqDIBgHZmb.jpg</thumbnail></dir>
 
+<dir>
+      <title>John wayne TMDB</title>
+      <tmdb>person/movies/4165</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/iw9gHSQj1l3TQeiJb5tNK2N8k2w.jpg</thumbnail>
+    </dir>
+
 <dir><name>Keanu Reeves</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Keanu%20Reeves.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/cEIZlUQvnlXfoxF0mPJsvDPh2Po.jpg</thumbnail></dir>
@@ -255,6 +261,12 @@
 <dir><name>Tom Hardy</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Tom%20Hardy.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/original/5HZSvW12xIWqdxasIL92pIiTSkY.jpg</thumbnail></dir>
+
+<dir>
+      <title>Tommy Flanagan</title>
+      <tmdb>person/movies/2478</tmdb>
+	  <thumbnail>https://image.tmdb.org/t/p/original/eVHvVN05wJSINFlkjxjwOwe6C3L.jpg</thumbnail>
+    </dir>
 
 <dir><name>Vin Diesel</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Vin%20Diesel.xml</link>
