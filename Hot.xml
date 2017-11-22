@@ -27,6 +27,118 @@
       <title>Trending Shows</title>
       <trakt>https://api.trakt.tv/shows/trending</trakt>
     </dir>
+	
+	<item>
+  <title>Hangman (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3011960</imdb>
+    <title>Hangman</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/mgKO8vKaEuXdqMc0Ftm28Q2Hpzt.jpg</fanart>
+</item>
+
+<item>
+  <title>American Assassin (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt1961175</imdb>
+    <title>American Assassin</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>http://image.tmdb.org/t/p/w500/o40BAqdTQHiN3cUfpgieDUYI71z.jpg</thumbnail>
+  <fanart>http://image.tmdb.org/t/p/original/puKZWmBIpuEMwGCn2hZkublG1rO.jpg</fanart>
+</item>
+
+<item>
+  <title>Home Again (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt5719700</imdb>
+    <title>Home Again</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>http://image.tmdb.org/t/p/w500/z5CtCxpblBke2G8c7CMkstedMgY.jpg</thumbnail>
+  <fanart>http://image.tmdb.org/t/p/original/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg</fanart>
+</item>
+
+<item>
+ <title>Geostorm (2017)</title>
+ <meta>
+  <content>movie</content>
+  <imdb>tt1981128</imdb>
+  <title>Geostorm</title>
+  <year>2017</year>
+ </meta>
+ <link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+ </link>
+ <thumbnail>http://image.tmdb.org/t/p/w500/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg</thumbnail>
+ <fanart>http://image.tmdb.org/t/p/original/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg</fanart>
+</item>
+
+<item>
+  <title>American Made (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3532216</imdb>
+    <title>American Made</title>
+    <year>2017</year>
+  </meta>
+  <link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+  </link>
+ <thumbnail>https://image.tmdb.org/t/p/original/prK4pLV5DAn99KNjuwxtpANbNsK.jpg</thumbnail>
+ <fanart>https://image.tmdb.org/t/p/original/qphzPbr42CaV6cayxOAsUbk8nLV.jpg</fanart>
+</item>
+
+<item>
+  <title>Crooked House (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt1869347</imdb>
+    <title>Crooked House</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/p9HMBZPxFNF3nd9s4ruPRwDgw6g.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/q5ZpmNZJeXn75C5LTEqEwbRqcNs.jpg</fanart>
+</item>
+
+<item>
+  <title>Mudbound (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt2396589</imdb>
+    <title>Mudbound</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/cAy3Dr58zZzS70TfuCmGFQhK4yi.jpg</fanart>
+</item>
 
   
 <item>
