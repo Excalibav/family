@@ -25,7 +25,7 @@
 </dir>
 
 <dir>
-<name>De bedste fra2016</name>
+<name>De bedste fra 2016</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/2016.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2016.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2016.png</thumbnail>
@@ -37,6 +37,19 @@
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.png</thumbnail>
 </dir>
+
+<dir>
+<name>Film Bokse</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/boxset.xml</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>http://stuffpoint.com/indiana-jones/image/369563-indiana-jones-the-young-indiana-jones-chronicles-dvd-box-sets.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>TV Serier</title>
+      <tmdb>list/38949</tmdb>
+	  <thumbnail>http://filmfenix.se/wp-content/uploads/2016/05/true-list-2-520x314.jpg</thumbnail>
+    </dir>
 
 <dir>
 <name>Skuespillere</name>
