@@ -265,6 +265,13 @@
 </dir>
 
 <dir>
+<title>Death Race Collection</title>
+<tmdb>collection/86116</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/uffHLg0ekFlErCp7OkpecXkWPng.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cGaVuq8ZjX1UPD9wPRlzx6lP9kK.jpg</fanart>
+</dir>
+
+<dir>
 <title>Die Hard Collection</title>
 <tmdb>collection/1570</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/dQP1lu4tBtCiAMeCRcuTFpJiM7y.jpg</thumbnail>
@@ -339,6 +346,13 @@
 <tmdb>collection/43563</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/dWh1Fohgx07AEd4vRUwgIj8BYxD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pXszT8ZWGj3fohU9FY0niA0IDEw.jpg</fanart>
+</dir>
+
+<dir>
+<title>From Dusk Till Dawn Collection</title>
+<tmdb>collection/10924</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/a156nAy5ZTGXlO5wgfvnF26aaDB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ahv1pteNOat4lI2XbCM2bWPksy2.jpg</fanart>
 </dir>
 
 <dir>
@@ -514,6 +528,13 @@
 <tmdb>collection/17178</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/leaYqf3HLs97mHYjiHPYNaUVgIf.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/q7A6qCqmy6daaqGRm3Ee3NUC3xN.jpg</fanart>
+</dir>
+
+<dir>
+<title>Jack Reacher Collection</title>
+<tmdb>collection/403374</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/7baSUtFKi8PQ9SLo6ECYBfAW2K8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6EeQ0vjUFJuMAVMvlqc1qepxNhh.jpg</fanart>
 </dir>
 
 <dir>
@@ -985,19 +1006,6 @@
 <fanart>http://image.tmdb.org/t/p/original/aOX2qCSmd28pvn5XphpnM3w6GhV.jpg</fanart>
 </dir>
 
-<dir>
-<title>The Godfather Collection</title>
-<tmdb>collection/230</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/w1280/7SJVjEDoo7xH62TS8stkqRk4Byo.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3WZTxpgscsmoUk81TuECXdFOD0R.jpg</fanart>
-</dir>
-
-<dir>
-<title>The Hangover Collection</title>
-<tmdb>collection/86119</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/w1280/aMmNLuyXvdBih1R5RRHtdtNaS6N.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uEtsf26a9RsRDy85MOIv1xAj44x.jpg</fanart>
-</dir>
 
 <dir>
 <title>The Hobbit Collection</title>
@@ -1041,12 +1049,6 @@
 <fanart>https://image.tmdb.org/t/p/original/1ok5JGCsDt4Sh3CkFeXh2F2KB7F.jpg</fanart>
 </dir>
 
-<dir>
-<title>The Lord of the Rings Collection</title>
-<tmdb>collection/119</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/w640/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg</fanart>
-</dir>
 
 <dir>
 <title>The Matrix Collection</title>
@@ -1182,6 +1184,13 @@
 </dir>
 
 <dir>
+<title>Twilight Collection</title>
+<tmdb>collection/33514</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/2o4zgGjVryMOPdNqLZWsSPqRkOH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rv5b06YAvmekw0D6Ul2ps9JbH4C.jpg</fanart>
+</dir>
+
+<dir>
 <title>Under Siege Collection</title>
 <tmdb>collection/11239</tmdb>
 <thumbnail>http://image.tmdb.org/t/p/w92/5hkZdonGNmoqatnadpDnIgEbrho.jpg</thumbnail>
@@ -1205,9 +1214,15 @@
 <dir>
 <title>Weekend at Bernie's Collection</title>
 <tmdb>collection/118221</tmdb>
-
 <thumbnail>https://image.tmdb.org/t/p/w1280/77AHVx6dt5Bqajak83Cj0MYIaIK.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/F35zibr76rjbu40cIBSTELo4n2.jpg</fanart>
+</dir>
+
+<dir>
+<title>World Of Watches Collection</title>
+<tmdb>collection/3106</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/5k6kkMpPCDqelJ2X1RABHCbstE6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nYLhKt0AdNr9IYT2K7p0U3HDY8k.jpg</fanart>
 </dir>
   
 <dir>
