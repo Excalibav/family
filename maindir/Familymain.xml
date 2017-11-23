@@ -46,6 +46,13 @@
 </dir>
 
 <dir>
+<name>Genrer</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Genre.xml</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://previews.123rf.com/images/kentoh/kentoh0910/kentoh091000145/5670167-Movie-Poster-of-Film-Genres-Vintage-Background-Stock-Photo.jpg</thumbnail>
+</dir>
+
+<dir>
       <title>TV Serier</title>
       <tmdb>list/38949</tmdb>
 	  <thumbnail>http://filmfenix.se/wp-content/uploads/2016/05/true-list-2-520x314.jpg</thumbnail>
