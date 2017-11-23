@@ -7,6 +7,13 @@
       <title>Valhalla TV shows</title>
       <tmdb>list/38949</tmdb>
     </dir>
+
+ <dir>
+      <title>Valhalla TV shows</title>
+      <tmdb>list/38949</tmdb>
+    </dir>
+
+
 	
 	<dir>
       <title>retro TV shows</title>
@@ -15,7 +22,7 @@
 	
 	  <dir>
       <title>TMDB Action Movies</title>
-      <tmdb>genre/movies/28</tmdb>
+      <link>https://github.com/Bobbyelvis/family/raw/master/Boxset.xml</link>
     </dir>
 	
 	 <dir>
