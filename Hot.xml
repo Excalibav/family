@@ -8,17 +8,12 @@
       <tmdb>list/38949</tmdb>
     </dir>
 
- <dir>
-      <title>Valhalla TV shows</title>
-      <tmdb>list/38949</tmdb>
-    </dir>
-
-
 	
-	<dir>
-      <title>retro TV shows</title>
-      <tmdb>list/38956</tmdb>
-    </dir>
+<title></title>
+<tmdb>collection/</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original</fanart>
+</dir>
 	
 	  <dir>
       <title>TMDB Action Movies</title>
