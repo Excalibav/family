@@ -8,13 +8,12 @@
       <tmdb>list/38949</tmdb>
     </dir>
 
+	<dir>
+      <title>Search TMDB</title>
+      <tmdb>search</tmdb>
+    </dir>
 	
-<title>Collections</title>
-<tmdb>collection/</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail> 
-<fanart>https://image.tmdb.org/t/p/original</fanart>
-</dir>
-	
+
 	  <dir>
       <title>TMDB Action Movies</title>
       <link>https://github.com/Bobbyelvis/family/raw/master/Boxset.xml</link>
