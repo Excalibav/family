@@ -117,13 +117,13 @@
 </dir>
 
 
-<dir><name>JUL JUL JUL</name>
+<dir><name>JUL</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Christmas/Christmasdir.xml</link>
 <animated_thumbnail>https://i.imgur.com/JG9vJ2A.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/sM8aoa1.png</thumbnail></dir>
 
 <plugin>
-<name>30701</name>
+<name>Indstillinger</name>
 <link>plugin://plugin.video.valhalla/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
