@@ -128,11 +128,10 @@
 <thumbnail></thumbnail>
 </plugin>
 
-<plugin>
-<name>30702</name>
-<link>plugin://plugin.video.valhalla/?action=search</link>
-<thumbnail></thumbnail>
-</plugin>
+<dir>
+      <title>Søg film/serier</title>
+      <tmdb>search</tmdb>
+    </dir>
 
 <plugin>
 <name>Testings</name>
