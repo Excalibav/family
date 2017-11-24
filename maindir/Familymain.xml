@@ -133,7 +133,7 @@
       <tmdb>search</tmdb>
     </dir>
 
-<plugin>
+plugin>
 <name>Testings</name>
 <link>plugin://plugin.video.valhalla/?action=developer</link>
 <thumbnail></thumbnail>
