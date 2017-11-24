@@ -132,9 +132,3 @@
       <title>Søg film/serier</title>
       <tmdb>search</tmdb>
     </dir>
-
-plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.valhalla/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
