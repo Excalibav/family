@@ -1,3 +1,8 @@
+#######################################################################################################################################
+<poster>Valhalla</poster>
+<fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
+#######################################################################################################################################
+
 <dir>
   <title>Action Movies</title>
   <tmdb>genre/movies/28</tmdb>
@@ -96,4 +101,9 @@
 <dir>
   <title>Western Movies</title>
   <tmdb>genre/movies/37</tmdb>
+</dir>
+
+<dir>
+  <title>My War Movies</title>
+  <tmdb>list/39611</tmdb>
 </dir>
