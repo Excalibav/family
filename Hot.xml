@@ -3,31 +3,37 @@
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
 
-	 <dir>
-      <title>Valhalla TV shows</title>
-      <tmdb>list/38949</tmdb>
-    </dir>
+	<item>
+	<title>Kingsman: The Golden Circle (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4649466</imdb>
+		<title>Kingsman: The Golden Circle</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/pKESfn2Pdy0b7drvZHQb7UzgqoY.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uExPmkOHJySrbJyJDJylHDqaT58.jpg</fanart>
+</item>
 
-	<dir>
-      <title>Search TMDB</title>
-      <tmdb>search</tmdb>
-    </dir>
-	
-
-	  <dir>
-      <title>TMDB Action Movies</title>
-      <link>https://github.com/Bobbyelvis/family/raw/master/Boxset.xml</link>
-    </dir>
-	
-	 <dir>
-      <title>TMDB animation</title>
-      <tmdb>genre/movies/12</tmdb>
-    </dir>
-	
-	    <dir>
-      <title>Trending Shows</title>
-      <trakt>https://api.trakt.tv/shows/trending</trakt>
-    </dir>
+<item>
+	<title>Instrument of War (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt7078004</imdb>
+		<title>Instrument of War</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/eI4ZZCC1oDjszKJ5RH3BPCbkVca.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/gc4ra89GXvfnUI1L09csoZWweyS.jpg</fanart>
+</item>
 	
 	<item>
   <title>Hangman (2017)</title>
