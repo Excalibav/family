@@ -42,20 +42,20 @@
 <name>Film Bokse</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Boxset.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>http://stuffpoint.com/indiana-jones/image/369563-indiana-jones-the-young-indiana-jones-chronicles-dvd-box-sets.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/sgBZw2A.png</thumbnail>
 </dir>
 
 <dir>
 <name>Genrer</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Genre.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>https://previews.123rf.com/images/kentoh/kentoh0910/kentoh091000145/5670167-Movie-Poster-of-Film-Genres-Vintage-Background-Stock-Photo.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/xqSxBQH.png</thumbnail>
 </dir>
 
 <dir>
       <title>TV Serier</title>
       <tmdb>list/38949</tmdb>
-	  <thumbnail>http://filmfenix.se/wp-content/uploads/2016/05/true-list-2-520x314.jpg</thumbnail>
+	  <thumbnail>https://i.imgur.com/3G43FLH.png</thumbnail>
     </dir>
 
 <dir>
