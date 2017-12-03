@@ -3,6 +3,22 @@
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
 	<item>
+ <title>HHhH (2017)</title>
+ <meta>
+  <content>movie</content>
+  <imdb>tt3296908</imdb>
+  <title>HHhH</title>
+  <year>2017</year>
+ </meta>
+ <link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+ </link>
+ <thumbnail>https://image.tmdb.org/t/p/original/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg</thumbnail>
+ <fanart>https://image.tmdb.org/t/p/original/pKXtR7X45VFyC1zpEXSw2zZyWPF.jpg</fanart>
+</item>
+
+	<item>
  <title>Gangster Land (2017)</title>
  <meta>
   <content>movie</content>
