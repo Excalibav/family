@@ -40,6 +40,10 @@
 <link>https://github.com/Bobbyelvis/family/raw/master//Weed/Weedmovies.xml</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/11/68/26/116826e2bd630ca9b5f93634e34e480b.jpg</thumbnail></dir>
 
+  <dir>
+      <title>Stoner film</title>
+      <trakt>https://api.trakt.tv/users/boomd420/lists/420/</trakt>
+    </dir>
 
 <dir><name>4:20 music</name>
 <link>https://github.com/Bobbyelvis/family/raw/master//Weed/Weedmusic.xml</link>
