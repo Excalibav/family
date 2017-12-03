@@ -42,7 +42,7 @@
 
   <dir>
       <title>Stoner film</title>
-      <trakt>https://api.trakt.tv/users/boomd420/lists/420/</trakt>
+      <trakt>https://api.trakt.tv/users/boomd420/lists/420/items/</trakt>
     </dir>
 
 <dir><name>4:20 music</name>
