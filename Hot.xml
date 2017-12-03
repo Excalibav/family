@@ -3,6 +3,70 @@
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
 	<item>
+ <title>Gangster Land (2017)</title>
+ <meta>
+  <content>movie</content>
+  <imdb>tt7241654</imdb>
+  <title>Gangster Land</title>
+  <year>2017</year>
+ </meta>
+ <link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+ </link>
+ <thumbnail>https://image.tmdb.org/t/p/original/npteMVPwuNqt9lAqDC67Ld4NESf.jpg</thumbnail>
+ <fanart>https://image.tmdb.org/t/p/original/QAppiNua2p8yeYAZG04WmdlCd4.jpg</fanart>
+</item>
+
+	<item>
+ <title>A Bad Idea Gone Wrong (2017)</title>
+ <meta>
+  <content>movie</content>
+  <imdb>tt5212918</imdb>
+  <title>A Bad Idea Gone Wrong</title>
+  <year>2017</year>
+ </meta>
+ <link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+ </link>
+ <thumbnail>https://image.tmdb.org/t/p/original/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg</thumbnail>
+ <fanart>https://image.tmdb.org/t/p/original/iiNe60Fmk7zm4JZ4jFXQETnOXQ7.jpg</fanart>
+</item>
+
+	<item>
+ <title>The Foreigner (2017)</title>
+ <meta>
+  <content>movie</content>
+  <imdb>tt1615160</imdb>
+  <title>The Foreigner</title>
+  <year>2017</year>
+ </meta>
+ <link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+ </link>
+ <thumbnail>http://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg</thumbnail>
+ <fanart>http://image.tmdb.org/t/p/original/p6anj7RQe03Gq2hSIxkkoozPMSH.jpg</fanart>
+</item>
+
+<item>
+ <title>Detroit (2017)</title>
+ <meta>
+  <content>movie</content>
+  <imdb>tt5390504</imdb>
+  <title>Detroit</title>
+  <year>2017</year>
+ </meta>
+ <link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+ </link>
+ <thumbnail>http://image.tmdb.org/t/p/w500/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg</thumbnail>
+ <fanart>http://image.tmdb.org/t/p/original/6YgSDUHRA4memDCjyKiwBJS9cNv.jpg</fanart>
+</item>
+	
+	<item>
 	<title>Kingsman: The Golden Circle (2017)</title>
 	<meta>
 		<content>movie</content>
