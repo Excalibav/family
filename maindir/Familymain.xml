@@ -107,14 +107,17 @@
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Kids.png</thumbnail>
 </dir>
 
-
-
 <dir>
 <name>Spillehjørnet</name>
 <link>http://www.norestrictions.club/valhalla/E3/E3.xml</link>
 <animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Gamers.gif</animated_thumbnail>
 <thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Gamers.png</thumbnail>
 </dir>
+
+<dir><name>Ryger hjørnet</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Weed/Weeddir.xml</link>
+<animated_thumbnail>https://i.imgur.com/JG9vJ2A.gif</animated_thumbnail>
+<thumbnail>https://i.imgur.com/sM8aoa1.png</thumbnail></dir>
 
 
 <dir><name>JUL</name>
