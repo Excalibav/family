@@ -1,0 +1,50 @@
+#######################################################################################################################################
+<poster>Valhalla</poster>
+<fanart>http://wallpapercave.com/wp/hMwO9WT.jpg</fanart> 
+#######################################################################################################################################
+
+<dir>
+<name>Weeds</name>
+<meta>
+<content>tvshow</content>
+<imdb>tt0439100</imdb>
+<tvdb>74845</tvdb>
+<tvshowtitle>Weeds</tvshowtitle>
+<year>2005</year>
+</meta>
+<link>https://github.com/Bobbyelvis/family/raw/master/Shows/Weeds/Weeds.xml</link>
+<thumbnail>http://thetvdb.com/banners/fanart/original/74845-16.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/74845-23.jpg</fanart>
+</dir>
+
+<dir><name>Main weed channels</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Mainweed.xml</link>
+<thumbnail>http://pre01.deviantart.net/a964/th/pre/f/2014/218/7/7/stay_high__by_scotty592-d7u1qed.png</thumbnail></dir>
+
+
+<dir><name>Original Stoners</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Originalstoners.xml</link>
+<thumbnail>http://assets.hightimes.com/styles/large/s3/CheechMarin-Birthday.jpg?itok=3g5LXaCY</thumbnail></dir>
+
+<dir><name>How to</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Howto.xml</link>
+<thumbnail>https://i.ytimg.com/vi/XQ1SngjLtZ4/maxresdefault.jpg</thumbnail></dir>
+
+
+<dir><name>Cooking</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Cooking.xml</link>
+<thumbnail>http://zliving.azureedge.net/zliving/zliving/media/zliving/fitness/workouts/articles/736x366/weed-it-out-all-you-need-to-know-about-cooking-with-cannabis-1076x616.jpg?ext=.jpg</thumbnail></dir>
+
+
+<dir><name>Stoner movies & Documentaries</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Weedmovies.xml</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/11/68/26/116826e2bd630ca9b5f93634e34e480b.jpg</thumbnail></dir>
+
+
+<dir><name>4:20 music</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Weedmusic.xml</link>
+<thumbnail>http://assets.hightimes.com/14-Weed-Loving-Music-Acts.jpg</thumbnail></dir>
+
+<dir><name>After smoke funny vids</name>
+<link>https://github.com/Bobbyelvis/family/raw/master//Weed/Weedfunny.xml</link>
+<thumbnail>http://wanna-joke.com/wp-content/uploads/2016/03/lost-ball-dog-weed.jpg</thumbnail></dir>

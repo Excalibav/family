@@ -1,0 +1,36 @@
+#######################################################################################################################################
+<poster>Valhalla</poster>
+<fanart>http://wallpapercave.com/wp/hMwO9WT.jpg</fanart> 
+#######################################################################################################################################
+
+<item>
+<title>420 stoned FM</title>
+<link>http://voice.420fm.co:8000</link>
+<thumbnail>https://pbs.twimg.com/profile_images/3507712130/fbbc13a1d07c981e465e96247024744f.jpeg</thumbnail>
+</item>
+
+<plugin>
+<title>4:20 Music playlist</title>
+<link>plugin://plugin.video.youtube/playlist/PLB55FE90E456D31F3/</link>
+<thumbnail>http://img08.deviantart.net/9736/i/2012/187/a/c/music_is_my_weed___v2_0_by_razvan1991-d565v4l.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>4:20 Music Rock n Blues</title>
+<link>plugin://plugin.video.youtube/playlist/PL1CFA4B730E69EA89/</link>
+<thumbnail>http://www.exploringlincoln.com/wp-content/uploads/2011/07/rock20110726a.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>4:20 Music Rasta</title>
+<link>plugin://plugin.video.youtube/playlist/PLBSTp6w-jdjJDkj-sweXy6p8eOiq30KBd/</link>
+<thumbnail>http://www.2all.co.il/web/Sites9/lalalend4u/289732_3.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>4:20 MIX</title>
+<link>plugin://plugin.video.youtube/playlist/PLfBb8qnzQBh1adc_C2D6iDq6DEhlepQbX/</link>
+<thumbnail>PLfBb8qnzQBh1adc_C2D6iDq6DEhlepQbX</thumbnail>
+</plugin> 
+
+
