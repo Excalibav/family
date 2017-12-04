@@ -107,3 +107,8 @@
   <title>My War Movies</title>
   <tmdb>list/39611</tmdb>
 </dir>
+
+<dir>
+  <title>Disney channel</title>
+  <tmdb>company/3213</tmdb>
+</dir>
