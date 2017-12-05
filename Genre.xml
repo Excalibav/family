@@ -109,6 +109,36 @@
 </dir>
 
 <dir>
-  <title>Disney</title>
-  <tmdb>company/movies/2</tmdb>
+  <title>Disney Channel</title>
+  <tmdb>network/shows/54</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Disney Junior</title>
+  <tmdb>network/shows/281</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Disney XD</title>
+  <tmdb>network/shows/44</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Nickelodeon</title>
+  <tmdb>network/shows/13</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Nick Jr</title>
+  <tmdb>network/shows/35</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
 </dir>
