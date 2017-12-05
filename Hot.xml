@@ -2,6 +2,37 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
+	  <item>
+  <title>Dunkirk (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt5013056</imdb>
+    <title>Dunkirk</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>http://image.tmdb.org/t/p/w500/bOXBV303Fgkzn2K4FeKDc0O31q4.jpg</thumbnail>
+  <fanart>http://image.tmdb.org/t/p/original/fudEG1VUWuOqleXv6NwCExK0VLy.jpg</fanart>
+</item>
+	  
+	  <title>Stronger (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3881784</imdb>
+    <title>Stronger</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>http://image.tmdb.org/t/p/w500/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg</thumbnail>
+  <fanart>http://image.tmdb.org/t/p/original/2T5tLmck0Kw7GTRvC1flgpH8fUK.jpg</fanart>
+</item>
+	
 	<item>
  <title>HHhH (2017)</title>
  <meta>
