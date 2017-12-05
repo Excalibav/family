@@ -142,3 +142,45 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<dir>
+  <title>Destination America</title>
+  <tmdb>network/shows/530</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Discovery Channel</title>
+  <tmdb>network/shows/64</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Discovery Channel</title>
+  <tmdb>network/shows/106</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Discovery Channel Australia</title>
+  <tmdb>network/shows/2087</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Discovery Health</title>
+  <tmdb>network/shows/10</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Discovery Science</title>
+  <tmdb>network/shows/1257</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
