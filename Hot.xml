@@ -2,6 +2,22 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
+	    <item>
+  <title>The Snowman (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt1758810</imdb>
+    <title>The Snowman</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg</fanart>
+</item>	
+	  
 	  <item>
   <title>9/11 (2017)</title>
   <meta>
