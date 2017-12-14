@@ -1,24 +1,16 @@
 #######################################################################################################################################
 <poster>Valhalla</poster>
 <cache>604800</cache>
-<fanart>http://www.hdwallpapers.in/download/welcome_to_new_decade-1920x1200.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/eSzpy96DwBujGFj0xMbXBcGcfxX.jpg</fanart>
 #######################################################################################################################################
-<dir><name>2010's</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Decades/2010s.xml</link>
-<thumbnail>http://www.walldevil.com/wallpapers/a43/holidays-decade-welcome.jpg</thumbnail></dir>
+  <dir>
+      <title>Mine favoritter</title>
+      <trakt>https://api.trakt.tv/users/staael2014/lists/mine-favoritter-tv-serier/items</trakt>
+	  <thumbnail>https://image.tmdb.org/t/p/original/mvBAio3Pg8mwU36ENooKcnyeBbk.jpg</thumbnail>
+    </dir>
 
-<dir><name>2000's</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Decades/2000s.xml</link>
-<thumbnail>http://www.walldevil.com/wallpapers/a43/holidays-decade-welcome.jpg</thumbnail></dir>
-
-<dir><name>1990's</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Decades/1990s.xml</link>
-<thumbnail>http://www.walldevil.com/wallpapers/a43/holidays-decade-welcome.jpg</thumbnail></dir>
-
-<dir><name>1980's</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Decades/1980s.xml</link>
-<thumbnail>http://www.walldevil.com/wallpapers/a43/holidays-decade-welcome.jpg</thumbnail></dir>
-
-<dir><name>1970's</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/Decades/1970s.xml</link>
-<thumbnail>http://www.walldevil.com/wallpapers/a43/holidays-decade-welcome.jpg</thumbnail></dir>
+	<dir>
+      <title>Retro tv</title>
+      <trakt>https://api.trakt.tv/users/staael2014/lists/retro-tv-serier/items</trakt>
+	  <thumbnail>https://image.tmdb.org/t/p/original/iciQRymgT04L2PIyG4N4qzYoUDv.jpg</thumbnail>
+    </dir>
