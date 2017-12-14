@@ -5,7 +5,7 @@
 #######################################################################################################################################
   <dir>
       <title>Mine favoritter</title>
-      <trakt>https://api.trakt.tv/users/staael2014/lists/mine-favoritter-tv-serier/items</trakt>
+      <tmdb>list/41983</tmdb>
 	  <thumbnail>https://image.tmdb.org/t/p/original/mvBAio3Pg8mwU36ENooKcnyeBbk.jpg</thumbnail>
     </dir>
 
