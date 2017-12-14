@@ -289,7 +289,10 @@
   <fanart></fanart>
 </item>
 
-
+  <dir>
+      <title>Mine favoritter</title>
+      <trakt>https://api.trakt.tv/users/staael2014/lists/mine-favoritter-tv-serier/items</trakt>
+    </dir>
 
 
 
