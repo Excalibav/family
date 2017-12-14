@@ -22,11 +22,6 @@
 	
 	
 <dir>
-  <title>Crime</title>
-  <tmdb>genre/shows/80</tmdb>
-</dir>
-
-<dir>
   <title>Documentary</title>
   <tmdb>genre/shows/99</tmdb>
 </dir>
@@ -39,12 +34,67 @@
 
 
 <dir>
-  <title>War & Politics</title>
-  <tmdb>genre/shows/10768</tmdb>
+  <title>Animal Planet</title>
+  <tmdb>network/shows/91</tmdb>
+  <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/4/4a/Animal-planet-logo.png/revision/latest?cb=20140703195542</thumbnail>
+  <fantart></fantart>
 </dir>
 
 <dir>
-  <title>Western</title>
-  <tmdb>genre/shows/37</tmdb>
+  <title>Destination America</title>
+  <tmdb>network/shows/530</tmdb>
+  <thumbnail>https://fontmeme.com/images/destination-america-old-logo.png</thumbnail>
+  <fantart></fantart>
 </dir>
+
+<dir>
+  <title>Discovery</title>
+  <tmdb>network/shows/64</tmdb>
+  <thumbnail>https://i.ytimg.com/vi/t2L86QoHY7o/maxresdefault.jpg</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>HBO</title>
+  <tmdb>network/shows/49</tmdb>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/55/HBO_logo_1975.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Hallmark</title>
+  <tmdb>network/shows/384</tmdb>
+  <thumbnail>https://pmcvariety.files.wordpress.com/2015/07/hallmark-chanel-logo.jpg?w=908&h=511&crop=1</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Investigation Discovery</title>
+  <tmdb>network/shows/244</tmdb>
+  <thumbnail>http://www.lumbre.tv/images/uploads/module-images/o_19heiefceck5l50al61jkrum31j___15.jpg</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Nat Geo Wild</title>
+  <tmdb>network/shows/1043</tmdb>
+  <thumbnail>https://i.ytimg.com/vi/jtocBh4Vyj8/maxresdefault.jpg</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>National Geographic Channel</title>
+  <tmdb>network/shows/799</tmdb>
+  <thumbnail>https://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.ngsversion.1475151192637.adapt.1900.1.jpg</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Netflix</title>
+  <tmdb>network/shows/213</tmdb>
+  <thumbnail>http://cgterminal.com/wp-content/uploads/2017/02/After-Effects-Netflix-Logo-Animation-Tutorial.jpg</thumbnail>
+  <fantart></fantart>
+</dir>
+
+
 
