@@ -53,10 +53,10 @@
 </dir>
 
 <dir>
-      <title>TV Serier</title>
-      <tmdb>list/38949</tmdb>
-	  <thumbnail>https://i.imgur.com/3G43FLH.png</thumbnail>
-    </dir>
+<name>TV serier</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Tv/Tv.xml</link>
+<thumbnail>https://i.imgur.com/3G43FLH.png</thumbnail>
+</dir>
 
 <dir>
 <name>Skuespillere</name>
