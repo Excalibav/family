@@ -4,6 +4,11 @@
 <fanart>https://image.tmdb.org/t/p/original/eSzpy96DwBujGFj0xMbXBcGcfxX.jpg</fanart>
 #######################################################################################################################################
   <dir>
+      <title>TMDB Airing Today</title>
+      <tmdb>tv/today</tmdb>
+    </dir>
+  
+  <dir>
       <title>Mine favoritter</title>
       <tmdb>list/41983</tmdb>
 	  <thumbnail>https://image.tmdb.org/t/p/original/mvBAio3Pg8mwU36ENooKcnyeBbk.jpg</thumbnail>
