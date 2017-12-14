@@ -19,3 +19,32 @@
       <trakt>https://api.trakt.tv/users/staael2014/lists/retro-tv-serier/items</trakt>
 	  <thumbnail>https://image.tmdb.org/t/p/original/iciQRymgT04L2PIyG4N4qzYoUDv.jpg</thumbnail>
     </dir>
+	
+	
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/shows/80</tmdb>
+</dir>
+
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/shows/99</tmdb>
+</dir>
+
+
+<dir>
+  <title>Reality</title>
+  <tmdb>genre/shows/10764</tmdb>
+</dir>
+
+
+<dir>
+  <title>War & Politics</title>
+  <tmdb>genre/shows/10768</tmdb>
+</dir>
+
+<dir>
+  <title>Western</title>
+  <tmdb>genre/shows/37</tmdb>
+</dir>
+
