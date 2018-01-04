@@ -2,6 +2,60 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
+	<dir>
+      <title>2018 SCREENERS TRYK HER</title>
+      <trakt>https://api.trakt.tv/users/staael2014/lists/2018-screeners/items</trakt>
+	  <thumbnail>https://whereyouwatch.com/wp-content/uploads/2017/09/Oscar-scr-2018-1140x633.jpg</thumbnail>
+    </dir>
+		
+		<item>
+  <title>Bright (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt5519340</imdb>
+    <title>Bright</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/7U1cdNG5u9dvawxwQ2dL2eD0fvL.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/hu4psJoKxDYezvvS4GlLF531fom.jpg</fanart>
+</item>	
+
+	    <item>
+  <title>Lucky (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt5859238</imdb>
+    <title>Lucky</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/cbDJs460VYLZ32Rdtvblcu7q7Mg.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/y2iWfbDQ6FVRPTgEh2CBMEFcKnD.jpg</fanart>
+</item>		
+
+	    <item>
+  <title>Scramble (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3652978</imdb>
+    <title>Scramble</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/oGPAVDEBY4dI87bhyfhoVYxapxa.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/y0Y5ZK3G5gTCu69h44wzCtq9pYN.jpg</fanart>
+</item>	
+
 	    <item>
   <title>Blade Runner 2049 (2017)</title>
   <meta>
