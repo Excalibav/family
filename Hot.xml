@@ -3,12 +3,28 @@
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
 	<dir>
-      <title>2018 SCREENERS TRYK HER</title>
+      <title>HOT HOT HOT 2018 SCREENERS TRYK HER</title>
       <trakt>https://api.trakt.tv/users/staael2014/lists/2018-screeners/items</trakt>
 	  <thumbnail>https://whereyouwatch.com/wp-content/uploads/2017/09/Oscar-scr-2018-1140x633.jpg</thumbnail>
     </dir>
 		
-		<item>
+	<item>
+  <title>Jigsaw (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3348730</imdb>
+    <title>Jigsaw</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/vqgJ8TgtwEJm3jhHhNMQN6XYXi4.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/25oR30jxA2TQkUhzmtBN4Ed0xxg.jpg</fanart>
+</item>		
+
+	<item>
   <title>Bright (2017)</title>
   <meta>
     <content>movie</content>
