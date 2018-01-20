@@ -7,6 +7,70 @@
       <trakt>https://api.trakt.tv/users/staael2014/lists/2018-screeners/items</trakt>
 	  <thumbnail>https://whereyouwatch.com/wp-content/uploads/2017/09/Oscar-scr-2018-1140x633.jpg</thumbnail>
     </dir>
+	
+	<item>
+  <title>LBJ (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt4778988</imdb>
+    <title>LBJ</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/88nJDIsm9H9wvxrQLbdXBxsgXuZ.jpg</fanart>
+</item>
+
+	<item>
+  <title>Acts of Violence (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt6684714</imdb>
+    <title>Acts of Violence</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/67igYEIDAFn7gr0YzgiiqjuvRoX.jpg</fanart>
+</item>
+
+	<item>
+  <title>A Bad Moms Christmas (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt6359956</imdb>
+    <title>A Bad Moms Christmas</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/oR4u6ZlLx0nVUuq1OfYKuwVhtkg.jpg</fanart>
+</item>		
+
+	<item>
+  <title>Thank You for Your Service (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt2776878</imdb>
+    <title>Thank You for Your Service</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/z8OKWw6DAZAOyz8F421euawr3Hs.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg</fanart>
+</item>
 		
 	<item>
   <title>Jigsaw (2017)</title>
