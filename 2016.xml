@@ -3,6 +3,38 @@
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
 <item>
+  <title>Shortwave (2016)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt5152640</imdb>
+    <title>Shortwave</title>
+    <year>2016</year>
+  </meta>
+  <link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>	
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/zUpZg5Pit5JQ1M5pFRA5qXpcKbA.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/dZkhe0DqyRHdwhtddYUi0OJyXXU.jpg</fanart>
+</item>
+
+<item>
+  <title>Cold Moon (2016)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt4441098</imdb>
+    <title>Cold Moon</title>
+    <year>2016</year>
+  </meta>
+  <link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+  </link>
+ <thumbnail>https://image.tmdb.org/t/p/original/lvSa2tlvXCUvk4dtKk0oK6lgmrt.jpg</thumbnail>
+ <fanart>https://image.tmdb.org/t/p/original/54HIQCwdMmbJU3ES3FDkiThWStU.jpg</fanart>
+</item>
+
+<item>
   <title>Hello Destroyer (2016)</title>
   <meta>
     <content>movie</content>

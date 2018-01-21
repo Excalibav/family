@@ -4,6 +4,118 @@
 <fanart></fanart>
 #######################################################################################################################################
 <item>
+<title>Thor: Ragnarok (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3501632</imdb>
+<title>Thor: Ragnarok</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mC5h2mJp7yGXziwSlzk5MjY1SAa.jpg</fanart>
+</item>
+
+<item>
+<title>Spider-Man: Homecoming (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt2250912</imdb>
+<title>Spider-Man: Homecoming</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tIM9Lv46ssBsZcwqdFnnY1q0ACo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/24GSBmRoQlX7tnHvH5BTPq2eMVQ.jpg</fanart>
+</item>
+
+<item>
+<title>Guardians of the Galaxy Vol. 2 (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3896198</imdb>
+<title>Guardians of the Galaxy Vol. 2</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xpFIaHL7Rm5kKLcEPDEMpjh4Xq6.jpg</fanart>
+</item>
+
+<item>
+<title>Logan (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3315342</imdb>
+<title>Logan</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/x75pHBRH3UdRQtP52k8MIOLryW8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5pAGnkFYSsFJ99ZxDIYnhQbQFXs.jpg</fanart>
+</item>
+
+<item>
+<title>Doctor Strange (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1211837</imdb>
+<title>Doctor Strange</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sDNhWjd4X7c0oOlClkkwvqVOo45.jpg</fanart>
+</item>
+
+<item>
+<title>X-Men: Apocalypse (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3385516</imdb>
+<title>X-Men: Apocalypse</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6V42gj3U1efGILevGSy2VzNTWPR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9fE9OI4A2THhZo7x1OLXxgI5wRJ.jpg</fanart>
+</item>
+
+<item>
+<title>Deadpool (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1431045</imdb>
+<title>Deadpool</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k1QUCjNAkfRpWfm1dVJGUmVHzGv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3P7mVFxpMLblLbVewybYOaNqEHT.jpg</fanart>
+</item>
+
+<item>
 <title>Captain America: Civil War (2016)</title>
 <meta>
 <content>movie</content>
