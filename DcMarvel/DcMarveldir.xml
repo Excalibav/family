@@ -1,0 +1,14 @@
+#######################################################################################################################################
+<poster>Valhalla</poster>
+<cache>604800</cache>
+<fanart>https://i.ytimg.com/vi/OHbP2DGzW6I/maxresdefault.jpg</fanart>
+#######################################################################################################################################
+
+<dir><name>DC</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/DcMarvel/DC.xml</link>
+<thumbnail>http://17r1l63fshd52dy9yakdizhkog.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/dccomics.jpg</thumbnail></dir>
+
+
+<dir><name>Marvel</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/DcMarvel/Marvel.xml</link>
+<thumbnail>http://cs625826.vk.me/v625826680/3aac8/bAJvBU2toO4.jpg</thumbnail></dir>
