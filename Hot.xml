@@ -459,12 +459,6 @@
 
 <item>
   <title>The Elf 2 (2017)</title>
-  <meta>
-    <content>movie</content>
-    <imdb>tt7136736</imdb>
-    <title>The Elf</title>
-    <year>2017</year>
-  </meta>
   <link>
     <sublink>https://raw.githubusercontent.com/Bobbyelvis/family/master/iptest.m3u</sublink>
     <sublink>searchsd</sublink>
@@ -473,12 +467,6 @@
   <fanart></fanart>
 </item>
 
-<item>
-  <title>test</title>
-   <link>https://raw.githubusercontent.com/Bobbyelvis/family/master/iptest.m3u</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
-  <fanart></fanart>
-</item>
 
   
 
