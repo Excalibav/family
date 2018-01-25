@@ -17,14 +17,28 @@
     <year>2017</year>
   </meta>
   <link>
-    <sublink>https://weshare.me/5011dbf195b15839/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv</sublink>
-    <sublink>https://openload.co/f/duWEkrHGyyI/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv</sublink>
 	<sublink>search</sublink>
     <sublink>searchsd</sublink>
   </link>
   <thumbnail>https://image.tmdb.org/t/p/original/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg</fanart>
 </item>
+
+	<item>
+  <title>Only the Brave (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3829920</imdb>
+    <title>Only the Brave</title>
+    <year>2017</year>
+  </meta>
+  <link>
+	<sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/rwJVB0muOMhkI5pTt9wwr4XCMBY.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg</fanart>
+</item>	
 
 	<item>
   <title>LBJ (2017)</title>
@@ -456,30 +470,3 @@
   <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
   <fanart></fanart>
 </item>
-
-<item>
-  <title>The Elf 2 (2017)</title>
-  <link>
-    <sublink>https://raw.githubusercontent.com/Bobbyelvis/family/master/iptest.m3u</sublink>
-    <sublink>searchsd</sublink>
-  </link>
-  <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
-  <fanart></fanart>
-</item>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
