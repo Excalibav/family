@@ -604,6 +604,6 @@
 
 <plugin>
     <title>Test M3U</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://textuploader.com/53hcw/raw</link>
-    <fanart>https://i.imgur.com/yonai3v.jpg</fanart>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</link>
+    <fanart>hxxps://i.imgur.com/yonai3v.jpg</fanart>
 </plugin>
