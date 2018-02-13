@@ -613,7 +613,7 @@
 
 <item>
 		<title>[COLOR cadetblue][16:30 GMT] Southampton vs Liverpool - [COLOR FFff8397b0][I]Link 20[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://3f74d219697e131ea1704910eece94d86508a908&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<link>plugin://program.plexus/?url=acestream://3f74d219697e131ea1704910eece94d86508a908&mode=1&name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/zPlDscs.png</thumbnail>
 		<fanart>https://i.imgur.com/qXPUn77.jpg</fanart>
 	</item>
