@@ -602,8 +602,18 @@
   <fanart></fanart>
 </item>
 
-<plugin>
-    <title>Test M3U</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</link>
-    <fanart>hxxps://i.imgur.com/yonai3v.jpg</fanart>
-</plugin>
+<item> 
+<title>[COLOR green]WWE Network[/COLOR]</title> 
+<link>
+<sublink>http://hlslive-akc.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie= mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa3633d5799f01a7c3dd8e799de786cfdab524e19c1f303c100585137e83e732de31507e2d6d902f5c1cb8d1debadf94c46645aa2b52088e9e118cdac2991dcd6ffe2d329b172bb322b1f6a5cd1bfe9908596fb3fdc69eac6954384b4004dbaa1f2f0c05aeb89dc90dcb8c4b5714e365660a2e4f14f9fc79411a99d0a88c3b2ffb7904c84a472fd4aea3f971187878c3a7de8c1c6ab703567096daf62c36708d9a1e7d5c50e5dc63eccbec453a76a6ee66a16cf055f3edc3e7fb8f40f1b78b62d220a74dba09831f75111eff1e52157c751f4c39870fc4d6b72511fb65eaafe421cb12315edb552a9ff0947480b5a6526f89b1b0a6996016c73b687a90f172ed632897cc00237bfb9b95443d5efd37455cc41d85e8352541e3a3220721cf50d347e59da4809f32e47e928ed4ac314fba899dbc04e553ffaa9710781d633d7254492914db5fccacc9f60279522aafb62625b7dc0ec621120837969943761f6f593ca41dbf91e0568131d2ddf781cb5072e209b5f607003eaf37113ed6ea466b755882935888b973a33ed46ff52694291338a257f21e9f9d694c3b0c37d8b0c5e0ee0420736602a8ead2008317cb69e0e0743493c9cb8b9e46e0fed1d52c7cf94fec00a3130715b0808124adce4a8a3e3b52d40770c6e46f800e6</sublink>
+</link> 
+<thumbnail>http://www.wwe.com/f/styles/wwe_large/public/all/2017/01/new_WWENetwork--12226c4d9b2f0aa5bfa7374022b27dab.jpg</thumbnail> 
+<fanart></fanart> 
+</item>
+
+<item>
+		<title>[COLOR cadetblue][16:30 GMT] Southampton vs Liverpool - [COLOR FFff8397b0][I]Link 20[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://3f74d219697e131ea1704910eece94d86508a908&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/zPlDscs.png</thumbnail>
+		<fanart>https://i.imgur.com/qXPUn77.jpg</fanart>
+	</item>
