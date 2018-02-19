@@ -124,6 +124,10 @@
 <animated_thumbnail>https://i.imgur.com/JG9vJ2A.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/sM8aoa1.png</thumbnail></dir>
 
+<dir><name>Andre Addons</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/addons.xml</link>
+<thumbnail>http://www.hewdean.com/Images/addons.png</thumbnail></dir>
+
 <plugin>
 <name>Indstillinger</name>
 <link>plugin://plugin.video.valhalla/?action=openSettings</link>
