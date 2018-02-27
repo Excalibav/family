@@ -2,13 +2,39 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
-	<dir>
-      <title>HOT HOT HOT 2018 SCREENERS TRYK HER</title>
-      <trakt>https://api.trakt.tv/users/staael2014/lists/2018-screeners/items</trakt>
-	  <thumbnail>https://whereyouwatch.com/wp-content/uploads/2017/09/Oscar-scr-2018-1140x633.jpg</thumbnail>
-    </dir>
-	
 <item>
+<title>The Shape of Water (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5580390</imdb>
+<title>The Shape of Water</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bAISaVhsaoyyQMZ55cpTwCdzek4.jpg</fanart>
+</item>
+
+<item>
+<title>Beast of Burden (2018)</title>
+<meta>
+<content>movie</content>
+<imdb>tt6170506</imdb>
+<title>Beast of Burden</title>
+<year>2018</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/uexWTafwBClTU1qJTEHT0T8TZHb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aQppKJ3tH6hA16gCSF9ogA7nd8j.jpg</fanart>
+</item>
+	
+	<item>
 <title>The Watchman's Canoe (2017)</title>
 <meta>
 <content>movie</content>
