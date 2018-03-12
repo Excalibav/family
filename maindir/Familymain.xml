@@ -6,49 +6,42 @@
 <dir>
 <name>Nyeste film</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Hot.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-Hot-Movies.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-Hot-Movies.png</thumbnail>
+<thumbnail>https://i.imgur.com/UWiMb0d.png</thumbnail>
 </dir>
 
 <dir>
 <name>IMDB Top 1000</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Imdb.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-IMDB-1000.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Val-IMDB-1000.png</thumbnail>
+<thumbnail>https://i.imgur.com/tzqGnq7.png</thumbnail>
 </dir>
 
 <dir>
 <name>De bedste fra 2017</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/2017.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2017.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2017.png</thumbnail>
+<thumbnail>https://i.imgur.com/fguFmMF.png</thumbnail>
 </dir>
 
 <dir>
 <name>De bedste fra 2016</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/2016.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2016.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2016.png</thumbnail>
+<thumbnail>https://i.imgur.com/PYOSuGl.png</thumbnail>
 </dir>
 
 <dir>
 <name>De bedste fra 2015</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/best2015.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Best-of-2015.png</thumbnail>
+<thumbnail>https://i.imgur.com/NJrkIOW.png</thumbnail>
 </dir>
 
 <dir>
 <name>Film Bokse</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Boxset.xml</link>
-<animated_thumbnail></animated_thumbnail>
 <thumbnail>https://i.imgur.com/sgBZw2A.png</thumbnail>
 </dir>
 
 <dir>
 <name>Genrer</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Genre.xml</link>
-<animated_thumbnail></animated_thumbnail>
 <thumbnail>https://i.imgur.com/xqSxBQH.png</thumbnail>
 </dir>
 
@@ -61,57 +54,49 @@
 <dir>
 <name>Skuespillere</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Actordir.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Actors.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Actors.png</thumbnail>
+<thumbnail>https://i.imgur.com/SUfPJrR.png</thumbnail>
 </dir>
 
 <dir>
 <name>Årtier</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Decades/Decades.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Anthology.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Anthology.png</thumbnail>
+<thumbnail>https://i.imgur.com/z5jjHCr.png</thumbnail>
 </dir>
 
 <dir>
 <name>Gys</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Horror/Horror.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Horror.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Horror.png</thumbnail>
+<thumbnail>https://i.imgur.com/Zsh7GRd.png</thumbnail>
 </dir>
 
 <dir>
 <name>Marvel mod DC</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/DcMarvel/DcMarveldir.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/MarvelvsDC.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/MarvelvsDC.png</thumbnail>
+<thumbnail>https://i.imgur.com/ItqEMAa.png</thumbnail>
 </dir>
 
 <dir>
 <name>Western film</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Westerns/Westerns.xml</link>
-<animated_thumbnail>https://i.imgur.com/I5XmLEu.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/tgSjALr.png</thumbnail>
 </dir>
 
 <dir>
 <name>Alt det danske</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/mains.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Danish.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Danish.png</thumbnail>
+<thumbnail>https://i.imgur.com/3qQ8zlO.png</thumbnail>
 </dir>
 
 <dir>
 <name>Tegnefilm (Engelsk tale)</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Kids.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Kids.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Kids.png</thumbnail>
+<thumbnail>https://i.imgur.com/frIsCZa.png</thumbnail>
 </dir>
 
 <dir>
 <name>Spillehjørnet</name>
 <link>http://www.norestrictions.club/valhalla/E3/E3.xml</link>
-<animated_thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Gamers.gif</animated_thumbnail>
-<thumbnail>http://www.norestrictions.club/reloaded/icons/Val/Gamers.png</thumbnail>
+<thumbnail>https://i.imgur.com/ARmEDMx.png</thumbnail>
 </dir>
 
 <dir><name>Ryger hjørnet</name>
@@ -121,7 +106,6 @@
 
 <dir><name>JUL</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Christmas/Christmasdir.xml</link>
-<animated_thumbnail>https://i.imgur.com/JG9vJ2A.gif</animated_thumbnail>
 <thumbnail>https://i.imgur.com/sM8aoa1.png</thumbnail></dir>
 
 <plugin>
